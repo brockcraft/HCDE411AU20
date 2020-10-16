@@ -1,0 +1,1310 @@
+pclass,survived,name,sex,age,embarked,home.dest
+1st,1,"Allen, Miss. Elisabeth Walton",female,29,Southampton,"St Louis, MO"
+1st,1,"Allison, Master. Hudson Trevor",male,0.916700006,Southampton,"Montreal, PQ / Chesterville, ON"
+1st,0,"Allison, Miss. Helen Loraine",female,2,Southampton,"Montreal, PQ / Chesterville, ON"
+1st,0,"Allison, Mr. Hudson Joshua Crei",male,30,Southampton,"Montreal, PQ / Chesterville, ON"
+1st,0,"Allison, Mrs. Hudson J C (Bessi",female,25,Southampton,"Montreal, PQ / Chesterville, ON"
+1st,1,"Anderson, Mr. Harry",male,48,Southampton,"New York, NY"
+1st,1,"Andrews, Miss. Kornelia Theodos",female,63,Southampton,"Hudson, NY"
+1st,0,"Andrews, Mr. Thomas Jr",male,39,Southampton,"Belfast, NI"
+1st,1,"Appleton, Mrs. Edward Dale (Cha",female,53,Southampton,"Bayside, Queens, NY"
+1st,0,"Artagaveytia, Mr. Ramon",male,71,Cherbourg,"Montevideo, Uruguay"
+1st,0,"Astor, Col. John Jacob",male,47,Cherbourg,"New York, NY"
+1st,1,"Astor, Mrs. John Jacob (Madelei",female,18,Cherbourg,"New York, NY"
+1st,1,"Aubart, Mme. Leontine Pauline",female,24,Cherbourg,"Paris, France"
+1st,1,"Barber, Miss. Ellen \""Nellie\""",female,26,Southampton,
+1st,1,"Barkworth, Mr. Algernon Henry W",male,80,Southampton,"Hessle, Yorks"
+1st,0,"Baumann, Mr. John D",male,NA,Southampton,"New York, NY"
+1st,0,"Baxter, Mr. Quigg Edmond",male,24,Cherbourg,"Montreal, PQ"
+1st,1,"Baxter, Mrs. James (Helene DeLa",female,50,Cherbourg,"Montreal, PQ"
+1st,1,"Bazzani, Miss. Albina",female,32,Cherbourg,
+1st,0,"Beattie, Mr. Thomson",male,36,Cherbourg,"Winnipeg, MN"
+1st,1,"Beckwith, Mr. Richard Leonard",male,37,Southampton,"New York, NY"
+1st,1,"Beckwith, Mrs. Richard Leonard",female,47,Southampton,"New York, NY"
+1st,1,"Behr, Mr. Karl Howell",male,26,Cherbourg,"New York, NY"
+1st,1,"Bidois, Miss. Rosalie",female,42,Cherbourg,
+1st,1,"Bird, Miss. Ellen",female,29,Southampton,
+1st,0,"Birnbaum, Mr. Jakob",male,25,Cherbourg,"San Francisco, CA"
+1st,1,"Bishop, Mr. Dickinson H",male,25,Cherbourg,"Dowagiac, MI"
+1st,1,"Bishop, Mrs. Dickinson H (Helen",female,19,Cherbourg,"Dowagiac, MI"
+1st,1,"Bissette, Miss. Amelia",female,35,Southampton,
+1st,1,"Bjornstrom-Steffansson, Mr. Mau",male,28,Southampton,"Stockholm, Sweden / Washington,"
+1st,0,"Blackwell, Mr. Stephen Weart",male,45,Southampton,"Trenton, NJ"
+1st,1,"Blank, Mr. Henry",male,40,Cherbourg,"Glen Ridge, NJ"
+1st,1,"Bonnell, Miss. Caroline",female,30,Southampton,"Youngstown, OH"
+1st,1,"Bonnell, Miss. Elizabeth",female,58,Southampton,"Birkdale, England Cleveland, Oh"
+1st,0,"Borebank, Mr. John James",male,42,Southampton,"London / Winnipeg, MB"
+1st,1,"Bowen, Miss. Grace Scott",female,45,Cherbourg,"Cooperstown, NY"
+1st,1,"Bowerman, Miss. Elsie Edith",female,22,Southampton,"St Leonards-on-Sea, England Ohi"
+1st,1,"Bradley, Mr. George (\""George Ar",male,NA,Southampton,"Los Angeles, CA"
+1st,0,"Brady, Mr. John Bertram",male,41,Southampton,"Pomeroy, WA"
+1st,0,"Brandeis, Mr. Emil",male,48,Cherbourg,"Omaha, NE"
+1st,0,"Brewe, Dr. Arthur Jackson",male,NA,Cherbourg,"Philadelphia, PA"
+1st,1,"Brown, Mrs. James Joseph (Marga",female,44,Cherbourg,"Denver, CO"
+1st,1,"Brown, Mrs. John Murray (Caroli",female,59,Southampton,"Belmont, MA"
+1st,1,"Bucknell, Mrs. William Robert (",female,60,Cherbourg,"Philadelphia, PA"
+1st,1,"Burns, Miss. Elizabeth Margaret",-,41,Cherbourg,
+1st,0,"Butt, Major. Archibald Willingh",male,45,Southampton,"Washington, DC"
+1st,0,"Cairns, Mr. Alexander",male,NA,Southampton,
+1st,1,"Calderhead, Mr. Edward Penningt",male,42,Southampton,"New York, NY"
+1st,1,"Candee, Mrs. Edward (Helen Chur",female,53,Cherbourg,"Washington, DC"
+1st,1,"Cardeza, Mr. Thomas Drake Marti",male,36,Cherbourg,"Austria-Hungary / Germantown, P"
+1st,1,"Cardeza, Mrs. James Warburton M",female,58,Cherbourg,"Germantown, Philadelphia, PA"
+1st,0,"Carlsson, Mr. Frans Olof",male,33,Southampton,"New York, NY"
+1st,0,"Carrau, Mr. Francisco M",male,28,Southampton,"Montevideo, Uruguay"
+1st,0,"Carrau, Mr. Jose Pedro",male,17,Southampton,"Montevideo, Uruguay"
+1st,1,"Carter, Master. William Thornto",male,11,Southampton,"Bryn Mawr, PA"
+1st,1,"Carter, Miss. Lucile Polk",female,14,Southampton,"Bryn Mawr, PA"
+1st,1,"Carter, Mr. William Ernest",male,36,Southampton,"Bryn Mawr, PA"
+1st,1,"Carter, Mrs. William Ernest (Lu",female,36,Southampton,"Bryn Mawr, PA"
+1st,0,"Case, Mr. Howard Brown",male,49,Southampton,"Ascot, Berkshire / Rochester, N"
+1st,1,"Cassebeer, Mrs. Henry Arthur Jr",female,NA,Cherbourg,"New York, NY"
+1st,0,"Cavendish, Mr. Tyrell William",male,36,Southampton,"Little Onn Hall, Staffs"
+1st,1,"Cavendish, Mrs. Tyrell William",female,76,Southampton,"Little Onn Hall, Staffs"
+1st,0,"Chaffee, Mr. Herbert Fuller",male,46,Southampton,"Amenia, ND"
+1st,1,"Chaffee, Mrs. Herbert Fuller (C",female,47,Southampton,"Amenia, ND"
+1st,1,"Chambers, Mr. Norman Campbell",male,27,Southampton,"New York, NY / Ithaca, NY"
+1st,1,"Chambers, Mrs. Norman Campbell",female,33,Southampton,"New York, NY / Ithaca, NY"
+1st,1,"Chaudanson, Miss. Victorine",female,36,Cherbourg,
+1st,1,"Cherry, Miss. Gladys",female,30,Southampton,"London, England"
+1st,1,"Chevre, Mr. Paul Romaine",male,45,Cherbourg,"Paris, France"
+1st,1,"Chibnall, Mrs. (Edith Martha Bo",female,NA,Southampton,"St Leonards-on-Sea, England Ohi"
+1st,0,"Chisholm, Mr. Roderick Robert C",male,NA,Southampton,"Liverpool, England / Belfast"
+1st,0,"Clark, Mr. Walter Miller",male,27,Cherbourg,"Los Angeles, CA"
+1st,1,"Clark, Mrs. Walter Miller (Virg",female,26,Cherbourg,"Los Angeles, CA"
+1st,1,"Cleaver, Miss. Alice",female,22,Southampton,
+1st,0,"Clifford, Mr. George Quincy",male,NA,Southampton,"Stoughton, MA"
+1st,0,"Colley, Mr. Edward Pomeroy",male,47,Southampton,"Victoria, BC"
+1st,1,"Compton, Miss. Sara Rebecca",female,39,Cherbourg,"Lakewood, NJ"
+1st,0,"Compton, Mr. Alexander Taylor J",male,37,Cherbourg,"Lakewood, NJ"
+1st,1,"Compton, Mrs. Alexander Taylor",female,64,Cherbourg,"Lakewood, NJ"
+1st,1,"Cornell, Mrs. Robert Clifford (",female,55,Southampton,"New York, NY"
+1st,0,"Crafton, Mr. John Bertram",male,NA,Southampton,"Roachdale, IN"
+1st,0,"Crosby, Capt. Edward Gifford",male,70,Southampton,"Milwaukee, WI"
+1st,1,"Crosby, Miss. Harriet R",female,36,Southampton,"Milwaukee, WI"
+1st,1,"Crosby, Mrs. Edward Gifford (Ca",female,64,Southampton,"Milwaukee, WI"
+1st,0,"Cumings, Mr. John Bradley",male,39,Cherbourg,"New York, NY"
+1st,1,"Cumings, Mrs. John Bradley (Flo",female,38,Cherbourg,"New York, NY"
+1st,1,"Daly, Mr. Peter Denis",male,51,Southampton,"Lima, Peru"
+1st,1,"Daniel, Mr. Robert Williams",male,27,Southampton,"Philadelphia, PA"
+1st,1,"Daniels, Miss. Sarah",female,33,Southampton,
+1st,0,"Davidson, Mr. Thornton",male,31,Southampton,"Montreal, PQ"
+1st,1,"Davidson, Mrs. Thornton (Orian",female,27,Southampton,"Montreal, PQ"
+1st,1,"Dick, Mr. Albert Adrian",male,31,Southampton,"Calgary, AB"
+1st,1,"Dick, Mrs. Albert Adrian (Vera",female,17,Southampton,"Calgary, AB"
+1st,1,"Dodge, Dr. Washington",male,53,Southampton,"San Francisco, CA"
+1st,1,"Dodge, Master. Washington",male,4,Southampton,"San Francisco, CA"
+1st,1,"Dodge, Mrs. Washington (Ruth Vi",female,54,Southampton,"San Francisco, CA"
+1st,0,"Douglas, Mr. Walter Donald",male,50,Cherbourg,"Deephaven, MN / Cedar Rapids, I"
+1st,1,"Douglas, Mrs. Frederick Charles",female,27,Cherbourg,"Montreal, PQ"
+1st,1,"Douglas, Mrs. Walter Donald (Ma",female,48,Cherbourg,"Deephaven, MN / Cedar Rapids, I"
+1st,1,"Duff Gordon, Lady. (Lucille Chr",female,48,Cherbourg,London / Paris
+1st,1,"Duff Gordon, Sir. Cosmo Edmund",male,49,Cherbourg,London / Paris
+1st,0,"Dulles, Mr. William Crothers",male,39,Cherbourg,"Philadelphia, PA"
+1st,1,"Earnshaw, Mrs. Boulton (Olive P",female,23,Cherbourg,"Mt Airy, Philadelphia, PA"
+1st,1,"Endres, Miss. Caroline Louise",female,38,Cherbourg,"New York, NY"
+1st,1,"Eustis, Miss. Elizabeth Mussey",female,54,Cherbourg,"Brookline, MA"
+1st,0,"Evans, Miss. Edith Corse",female,36,Cherbourg,"New York, NY"
+1st,0,"Farthing, Mr. John",male,NA,Southampton,
+1st,1,"Flegenheim, Mrs. Alfred (Antoin",female,NA,Southampton,"New York, NY"
+1st,1,"Fleming, Miss. Margaret",female,NA,Cherbourg,
+1st,1,"Flynn, Mr. John Irwin (\""Irving\""",male,36,Southampton,"Brooklyn, NY"
+1st,0,"Foreman, Mr. Benjamin Laventall",male,30,Cherbourg,"New York, NY"
+1st,1,"Fortune, Miss. Alice Elizabeth",female,24,Southampton,"Winnipeg, MB"
+1st,1,"Fortune, Miss. Ethel Flora",female,28,Southampton,"Winnipeg, MB"
+1st,1,"Fortune, Miss. Mabel Helen",female,23,Southampton,"Winnipeg, MB"
+1st,0,"Fortune, Mr. Charles Alexander",male,19,Southampton,"Winnipeg, MB"
+1st,0,"Fortune, Mr. Mark",male,64,Southampton,"Winnipeg, MB"
+1st,1,"Fortune, Mrs. Mark (Mary McDoug",female,60,Southampton,"Winnipeg, MB"
+1st,1,"Francatelli, Miss. Laura Mabel",female,30,Cherbourg,
+1st,0,"Franklin, Mr. Thomas Parham",male,NA,Southampton,"Westcliff-on-Sea, Essex"
+1st,1,"Frauenthal, Dr. Henry William",male,50,Southampton,"New York, NY"
+1st,1,"Frauenthal, Mr. Isaac Gerald",male,43,Cherbourg,"New York, NY"
+1st,1,"Frauenthal, Mrs. Henry William",female,NA,Southampton,"New York, NY"
+1st,1,"Frolicher, Miss. Hedwig Margari",female,22,Cherbourg,"Zurich, Switzerland"
+1st,1,"Frolicher-Stehli, Mr. Maxmillia",male,60,Cherbourg,"Zurich, Switzerland"
+1st,1,"Frolicher-Stehli, Mrs. Maxmilli",female,48,Cherbourg,"Zurich, Switzerland"
+1st,0,"Fry, Mr. Richard",male,NA,Southampton,
+1st,0,"Futrelle, Mr. Jacques Heath",male,37,Southampton,"Scituate, MA"
+1st,1,"Futrelle, Mrs. Jacques Heath (L",female,35,Southampton,"Scituate, MA"
+1st,0,"Gee, Mr. Arthur H",male,47,Southampton,"St Anne's-on-Sea, Lancashire"
+1st,1,"Geiger, Miss. Amalie",female,35,Cherbourg,
+1st,1,"Gibson, Miss. Dorothy Winifred",female,22,Cherbourg,"New York, NY"
+1st,1,"Gibson, Mrs. Leonard (Pauline C",female,45,Cherbourg,"New York, NY"
+1st,0,"Giglio, Mr. Victor",male,24,Cherbourg,
+1st,1,"Goldenberg, Mr. Samuel L",male,49,Cherbourg,"Paris, France / New York, NY"
+1st,1,"Goldenberg, Mrs. Samuel L (Edwi",female,NA,Cherbourg,"Paris, France / New York, NY"
+1st,0,"Goldschmidt, Mr. George B",male,71,Cherbourg,"New York, NY"
+1st,1,"Gracie, Col. Archibald IV",male,53,Cherbourg,"Washington, DC"
+1st,1,"Graham, Miss. Margaret Edith",female,19,Southampton,"Greenwich, CT"
+1st,0,"Graham, Mr. George Edward",male,38,Southampton,"Winnipeg, MB"
+1st,1,"Graham, Mrs. William Thompson (",female,58,Southampton,"Greenwich, CT"
+1st,1,"Greenfield, Mr. William Bertram",male,23,Cherbourg,"New York, NY"
+1st,1,"Greenfield, Mrs. Leo David (Bla",female,45,Cherbourg,"New York, NY"
+1st,0,"Guggenheim, Mr. Benjamin",male,46,Cherbourg,"New York, NY"
+1st,1,"Harder, Mr. George Achilles",male,25,Cherbourg,"Brooklyn, NY"
+1st,1,"Harder, Mrs. George Achilles (D",female,25,Cherbourg,"Brooklyn, NY"
+1st,1,"Harper, Mr. Henry Sleeper",male,48,Cherbourg,"New York, NY"
+1st,1,"Harper, Mrs. Henry Sleeper (Myn",female,49,Cherbourg,"New York, NY"
+1st,0,"Harrington, Mr. Charles H",male,NA,Southampton,
+1st,0,"Harris, Mr. Henry Birkhardt",male,45,Southampton,"New York, NY"
+1st,1,"Harris, Mrs. Henry Birkhardt (I",female,35,Southampton,"New York, NY"
+1st,0,"Harrison, Mr. William",male,40,Southampton,
+1st,1,"Hassab, Mr. Hammad",male,27,Cherbourg,
+1st,1,"Hawksford, Mr. Walter James",male,NA,Southampton,"Kingston, Surrey"
+1st,1,"Hays, Miss. Margaret Bechstein",female,24,Cherbourg,"New York, NY"
+1st,0,"Hays, Mr. Charles Melville",male,55,Southampton,"Montreal, PQ"
+1st,1,"Hays, Mrs. Charles Melville (Cl",female,52,Southampton,"Montreal, PQ"
+1st,0,"Head, Mr. Christopher",male,42,Southampton,London / Middlesex
+1st,0,"Hilliard, Mr. Herbert Henry",male,NA,Southampton,"Brighton, MA"
+1st,0,"Hipkins, Mr. William Edward",male,55,Southampton,London / Birmingham
+1st,1,"Hippach, Miss. Jean Gertrude",female,16,Cherbourg,"Chicago, IL"
+1st,1,"Hippach, Mrs. Louis Albert (Ida",female,44,Cherbourg,"Chicago, IL"
+1st,1,"Hogeboom, Mrs. John C (Anna And",female,51,Southampton,"Hudson, NY"
+1st,0,"Holverson, Mr. Alexander Oskar",male,42,Southampton,"New York, NY"
+1st,1,"Holverson, Mrs. Alexander Oskar",female,35,Southampton,"New York, NY"
+1st,1,"Homer, Mr. Harry (\""Mr E Haven\"")",male,35,Cherbourg,"Indianapolis, IN"
+1st,1,"Hoyt, Mr. Frederick Maxfield",male,38,Southampton,"New York, NY /  Stamford CT"
+1st,0,"Hoyt, Mr. William Fisher",male,NA,Cherbourg,"New York, NY"
+1st,1,"Hoyt, Mrs. Frederick Maxfield (",female,35,Southampton,"New York, NY /  Stamford CT"
+1st,1,"Icard, Miss. Amelie",female,38,NA,
+1st,0,"Isham, Miss. Ann Elizabeth",female,50,Cherbourg,"Paris, France New York, NY"
+1st,1,"Ismay, Mr. Joseph Bruce",male,49,Southampton,Liverpool
+1st,0,"Jones, Mr. Charles Cresson",male,46,Southampton,"Bennington, VT"
+1st,0,"Julian, Mr. Henry Forbes",male,50,Southampton,London
+1st,0,"Keeping, Mr. Edwin",male,32.5,Cherbourg,
+1st,0,"Kent, Mr. Edward Austin",male,58,Cherbourg,"Buffalo, NY"
+1st,0,"Kenyon, Mr. Frederick R",male,41,Southampton,"Southington / Noank, CT"
+1st,1,"Kenyon, Mrs. Frederick R (Mario",female,NA,Southampton,"Southington / Noank, CT"
+1st,1,"Kimball, Mr. Edwin Nelson Jr",male,42,Southampton,"Boston, MA"
+1st,1,"Kimball, Mrs. Edwin Nelson Jr (",female,45,Southampton,"Boston, MA"
+1st,0,"Klaber, Mr. Herman",male,NA,Southampton,"Portland, OR"
+1st,1,"Kreuchen, Miss. Emilie",female,39,Southampton,
+1st,1,"Leader, Dr. Alice (Farnham)",female,49,Southampton,"New York, NY"
+1st,1,"LeRoy, Miss. Bertha",female,30,Cherbourg,
+1st,1,"Lesurer, Mr. Gustave J",male,35,Cherbourg,
+1st,0,"Lewy, Mr. Ervin G",male,NA,Cherbourg,"Chicago, IL"
+1st,0,"Lindeberg-Lind, Mr. Erik Gustaf",male,42,Southampton,"Stockholm, Sweden"
+1st,1,"Lindstrom, Mrs. Carl Johan (Sig",female,55,Cherbourg,"Stockholm, Sweden"
+1st,1,"Lines, Miss. Mary Conover",female,16,Southampton,"Paris, France"
+1st,1,"Lines, Mrs. Ernest H (Elizabeth",female,51,Southampton,"Paris, France"
+1st,0,"Long, Mr. Milton Clyde",male,29,Southampton,"Springfield, MA"
+1st,1,"Longley, Miss. Gretchen Fiske",female,21,Southampton,"Hudson, NY"
+1st,0,"Loring, Mr. Joseph Holland",male,30,Southampton,"London / New York, NY"
+1st,1,"Lurette, Miss. Elise",female,58,Cherbourg,
+1st,1,"Madill, Miss. Georgette Alexand",female,15,Southampton,"St Louis, MO"
+1st,0,"Maguire, Mr. John Edward",male,30,Southampton,"Brockton, MA"
+1st,1,"Maioni, Miss. Roberta",female,16,Southampton,
+1st,1,"Marechal, Mr. Pierre",male,NA,Cherbourg,"Paris, France"
+1st,0,"Marvin, Mr. Daniel Warner",male,19,Southampton,"New York, NY"
+1st,1,"Marvin, Mrs. Daniel Warner (Mar",female,18,Southampton,"New York, NY"
+1st,1,"Mayne, Mlle. Berthe Antonine (\""",female,24,Cherbourg,"Belgium  Montreal, PQ"
+1st,0,"McCaffry, Mr. Thomas Francis",male,46,Cherbourg,"Vancouver, BC"
+1st,0,"McCarthy, Mr. Timothy J",male,54,Southampton,"Dorchester, MA"
+1st,1,"McGough, Mr. James Robert",male,36,Southampton,"Philadelphia, PA"
+1st,0,"Meyer, Mr. Edgar Joseph",male,28,Cherbourg,"New York, NY"
+1st,1,"Meyer, Mrs. Edgar Joseph (Leila",female,NA,Cherbourg,"New York, NY"
+1st,0,"Millet, Mr. Francis Davis",male,65,Southampton,"East Bridgewater, MA"
+1st,0,"Minahan, Dr. William Edward",male,44,Queenstown,"Fond du Lac, WI"
+1st,1,"Minahan, Miss. Daisy E",female,33,Queenstown,"Green Bay, WI"
+1st,1,"Minahan, Mrs. William Edward (L",female,37,Queenstown,"Fond du Lac, WI"
+1st,1,"Mock, Mr. Philipp Edmund",male,30,Cherbourg,"New York, NY"
+1st,0,"Molson, Mr. Harry Markland",male,55,Southampton,"Montreal, PQ"
+1st,0,"Moore, Mr. Clarence Bloomfield",male,47,Southampton,"Washington, DC"
+1st,0,"Natsch, Mr. Charles H",male,37,Cherbourg,"Brooklyn, NY"
+1st,1,"Newell, Miss. Madeleine",female,31,Cherbourg,"Lexington, MA"
+1st,1,"Newell, Miss. Marjorie",female,23,Cherbourg,"Lexington, MA"
+1st,0,"Newell, Mr. Arthur Webster",male,58,Cherbourg,"Lexington, MA"
+1st,1,"Newsom, Miss. Helen Monypeny",female,19,Southampton,"New York, NY"
+1st,0,"Nicholson, Mr. Arthur Ernest",male,64,Southampton,"Isle of Wight, England"
+1st,1,"Oliva y Ocana, Dona. Fermina",female,39,Cherbourg,
+1st,1,"Omont, Mr. Alfred Fernand",male,NA,Cherbourg,"Paris, France"
+1st,1,"Ostby, Miss. Helene Ragnhild",female,22,Cherbourg,"Providence, RI"
+1st,0,"Ostby, Mr. Engelhart Cornelius",male,65,Cherbourg,"Providence, RI"
+1st,0,"Ovies y Rodriguez, Mr. Servando",male,28.5,Cherbourg,"?Havana, Cuba"
+1st,0,"Parr, Mr. William Henry Marsh",male,NA,Southampton,Belfast
+1st,0,"Partner, Mr. Austen",male,45.5,Southampton,"Surbiton Hill, Surrey"
+1st,0,"Payne, Mr. Vivian Ponsonby",male,23,Southampton,"Montreal, PQ"
+1st,0,"Pears, Mr. Thomas Clinton",male,29,Southampton,"Isleworth, England"
+1st,1,"Pears, Mrs. Thomas (Edith Wearn",female,22,Southampton,"Isleworth, England"
+1st,0,"Penasco y Castellana, Mr. Victo",male,18,Cherbourg,"Madrid, Spain"
+1st,1,"Penasco y Castellana, Mrs. Vict",female,17,Cherbourg,"Madrid, Spain"
+1st,1,"Perreault, Miss. Anne",female,30,Southampton,
+1st,1,"Peuchen, Major. Arthur Godfrey",male,52,Southampton,"Toronto, ON"
+1st,0,"Porter, Mr. Walter Chamberlain",male,47,Southampton,"Worcester, MA"
+1st,1,"Potter, Mrs. Thomas Jr (Lily Al",female,56,Cherbourg,"Mt Airy, Philadelphia, PA"
+1st,0,"Reuchlin, Jonkheer. John George",male,38,Southampton,"Rotterdam, Netherlands"
+1st,1,"Rheims, Mr. George Alexander Lu",male,NA,Southampton,"Paris /  New York, NY"
+1st,0,"Ringhini, Mr. Sante",male,22,Cherbourg,
+1st,0,"Robbins, Mr. Victor",male,NA,Cherbourg,
+1st,1,"Robert, Mrs. Edward Scott (Elis",female,43,Southampton,"St Louis, MO"
+1st,0,"Roebling, Mr. Washington August",male,31,Southampton,"Trenton, NJ"
+1st,1,"Romaine, Mr. Charles Hallace (\""",male,45,Southampton,"New York, NY"
+1st,0,"Rood, Mr. Hugh Roscoe",male,NA,Southampton,"Seattle, WA"
+1st,1,"Rosenbaum, Miss. Edith Louise",female,33,Cherbourg,"Paris, France"
+1st,0,"Rosenshine, Mr. George (\""Mr Geo",male,46,Cherbourg,"New York, NY"
+1st,0,"Ross, Mr. John Hugo",male,36,Cherbourg,"Winnipeg, MB"
+1st,1,"Rothes, the Countess. of (Lucy",female,33,Southampton,"London  Vancouver, BC"
+1st,0,"Rothschild, Mr. Martin",male,55,Cherbourg,"New York, NY"
+1st,1,"Rothschild, Mrs. Martin (Elizab",female,54,Cherbourg,"New York, NY"
+1st,0,"Rowe, Mr. Alfred G",male,33,Southampton,London
+1st,1,"Ryerson, Master. John Borie",male,13,Cherbourg,"Haverford, PA / Cooperstown, NY"
+1st,1,"Ryerson, Miss. Emily Borie",female,18,Cherbourg,"Haverford, PA / Cooperstown, NY"
+1st,1,"Ryerson, Miss. Susan Parker \""Su",female,21,Cherbourg,"Haverford, PA / Cooperstown, NY"
+1st,0,"Ryerson, Mr. Arthur Larned",male,61,Cherbourg,"Haverford, PA / Cooperstown, NY"
+1st,1,"Ryerson, Mrs. Arthur Larned (Em",female,48,Cherbourg,"Haverford, PA / Cooperstown, NY"
+1st,1,"Saalfeld, Mr. Adolphe",male,NA,Southampton,"Manchester, England"
+1st,1,"Sagesser, Mlle. Emma",female,24,Cherbourg,
+1st,1,"Salomon, Mr. Abraham L",male,NA,Southampton,"New York, NY"
+1st,1,"Schabert, Mrs. Paul (Emma Mock)",female,35,Cherbourg,"New York, NY"
+1st,1,"Serepeca, Miss. Augusta",female,30,Cherbourg,
+1st,1,"Seward, Mr. Frederic Kimber",male,34,Southampton,"New York, NY"
+1st,1,"Shutes, Miss. Elizabeth W",female,40,Southampton,"New York, NY / Greenwich CT"
+1st,1,"Silverthorne, Mr. Spencer Victo",male,35,Southampton,"St Louis, MO"
+1st,0,"Silvey, Mr. William Baird",male,50,Southampton,"Duluth, MN"
+1st,1,"Silvey, Mrs. William Baird (Ali",female,39,Southampton,"Duluth, MN"
+1st,1,"Simonius-Blumer, Col. Oberst Al",male,56,Cherbourg,"Basel, Switzerland"
+1st,1,"Sloper, Mr. William Thompson",male,28,Southampton,"New Britain, CT"
+1st,0,"Smart, Mr. John Montgomery",male,56,Southampton,"New York, NY"
+1st,0,"Smith, Mr. James Clinch",male,56,Cherbourg,"St James, Long Island, NY"
+1st,0,"Smith, Mr. Lucien Philip",male,24,Southampton,"Huntington, WV"
+1st,0,"Smith, Mr. Richard William",male,NA,Southampton,"Streatham, Surrey"
+1st,1,"Smith, Mrs. Lucien Philip (Mary",female,18,Southampton,"Huntington, WV"
+1st,1,"Snyder, Mr. John Pillsbury",male,24,Southampton,"Minneapolis, MN"
+1st,1,"Snyder, Mrs. John Pillsbury (Ne",female,23,Southampton,"Minneapolis, MN"
+1st,1,"Spedden, Master. Robert Douglas",male,6,Cherbourg,"Tuxedo Park, NY"
+1st,1,"Spedden, Mr. Frederic Oakley",male,45,Cherbourg,"Tuxedo Park, NY"
+1st,1,"Spedden, Mrs. Frederic Oakley (",female,40,Cherbourg,"Tuxedo Park, NY"
+1st,0,"Spencer, Mr. William Augustus",male,57,Cherbourg,"Paris, France"
+1st,1,"Spencer, Mrs. William Augustus",female,NA,Cherbourg,"Paris, France"
+1st,1,"Stahelin-Maeglin, Dr. Max",male,32,Cherbourg,"Basel, Switzerland"
+1st,0,"Stead, Mr. William Thomas",male,62,Southampton,"Wimbledon Park, London / Haylin"
+1st,1,"Stengel, Mr. Charles Emil Henry",male,54,Cherbourg,"Newark, NJ"
+1st,1,"Stengel, Mrs. Charles Emil Henr",female,43,Cherbourg,"Newark, NJ"
+1st,1,"Stephenson, Mrs. Walter Bertram",female,52,Cherbourg,"Haverford, PA"
+1st,0,"Stewart, Mr. Albert A",male,NA,Cherbourg,"Gallipolis, Ohio / ? Paris / Ne"
+1st,1,"Stone, Mrs. George Nelson (Mart",female,62,NA,"Cincinatti, OH"
+1st,0,"Straus, Mr. Isidor",male,67,Southampton,"New York, NY"
+1st,0,"Straus, Mrs. Isidor (Rosalie Id",female,63,Southampton,"New York, NY"
+1st,0,"Sutton, Mr. Frederick",male,61,Southampton,"Haddenfield, NJ"
+1st,1,"Swift, Mrs. Frederick Joel (Mar",female,48,Southampton,"Brooklyn, NY"
+1st,1,"Taussig, Miss. Ruth",female,18,Southampton,"New York, NY"
+1st,0,"Taussig, Mr. Emil",male,52,Southampton,"New York, NY"
+1st,1,"Taussig, Mrs. Emil (Tillie Mand",female,39,Southampton,"New York, NY"
+1st,1,"Taylor, Mr. Elmer Zebley",male,48,Southampton,"London /  East Orange, NJ"
+1st,1,"Taylor, Mrs. Elmer Zebley (Juli",female,NA,Southampton,"London /  East Orange, NJ"
+1st,0,"Thayer, Mr. John Borland",male,49,Cherbourg,"Haverford, PA"
+1st,1,"Thayer, Mr. John Borland Jr",male,17,Cherbourg,"Haverford, PA"
+1st,1,"Thayer, Mrs. John Borland (Mari",female,39,Cherbourg,"Haverford, PA"
+1st,1,"Thorne, Mrs. Gertrude Maybelle",female,NA,Cherbourg,"New York, NY"
+1st,1,"Tucker, Mr. Gilbert Milligan Jr",male,31,Cherbourg,"Albany, NY"
+1st,0,"Uruchurtu, Don. Manuel E",male,40,Cherbourg,"Mexico City, Mexico"
+1st,0,"Van der hoef, Mr. Wyckoff",male,61,Southampton,"Brooklyn, NY"
+1st,0,"Walker, Mr. William Anderson",male,47,Southampton,"East Orange, NJ"
+1st,1,"Ward, Miss. Anna",female,35,Cherbourg,
+1st,0,"Warren, Mr. Frank Manley",male,64,Cherbourg,"Portland, OR"
+1st,1,"Warren, Mrs. Frank Manley (Anna",female,60,Cherbourg,"Portland, OR"
+1st,0,"Weir, Col. John",male,60,Southampton,"England Salt Lake City, Utah"
+1st,0,"White, Mr. Percival Wayland",male,54,Southampton,"Brunswick, ME"
+1st,0,"White, Mr. Richard Frasar",male,21,Southampton,"Brunswick, ME"
+1st,1,"White, Mrs. John Stuart (Ella H",female,55,Cherbourg,"New York, NY / Briarcliff Manor"
+1st,1,"Wick, Miss. Mary Natalie",female,31,Southampton,"Youngstown, OH"
+1st,0,"Wick, Mr. George Dennick",male,57,Southampton,"Youngstown, OH"
+1st,1,"Wick, Mrs. George Dennick (Mary",female,45,Southampton,"Youngstown, OH"
+1st,0,"Widener, Mr. George Dunton",male,50,Cherbourg,"Elkins Park, PA"
+1st,0,"Widener, Mr. Harry Elkins",male,27,Cherbourg,"Elkins Park, PA"
+1st,1,"Widener, Mrs. George Dunton (El",female,50,Cherbourg,"Elkins Park, PA"
+1st,1,"Willard, Miss. Constance",female,21,Southampton,"Duluth, MN"
+1st,0,"Williams, Mr. Charles Duane",male,51,Cherbourg,"Geneva, Switzerland / Radnor, P"
+1st,1,"Williams, Mr. Richard Norris II",male,21,Cherbourg,"Geneva, Switzerland / Radnor, P"
+1st,0,"Williams-Lambert, Mr. Fletcher",male,NA,Southampton,"London, England"
+1st,1,"Wilson, Miss. Helen Alice",female,31,Cherbourg,
+1st,1,"Woolner, Mr. Hugh",male,NA,Southampton,"London, England"
+1st,0,"Wright, Mr. George",male,62,Southampton,"Halifax, NS"
+1st,1,"Young, Miss. Marie Grice",female,36,Cherbourg,"New York, NY / Washington, DC"
+2nd,0,"Abelson, Mr. Samuel",male,30,Cherbourg,"Russia New York, NY"
+2nd,1,"Abelson, Mrs. Samuel (Hannah Wi",female,28,Cherbourg,"Russia New York, NY"
+2nd,0,"Aldworth, Mr. Charles Augustus",male,30,Southampton,"Bryn Mawr, PA, USA"
+2nd,0,"Andrew, Mr. Edgardo Samuel",male,18,Southampton,"Buenos Aires, Argentina / New J"
+2nd,0,"Andrew, Mr. Frank Thomas",male,25,Southampton,"Cornwall, England Houghton, MI"
+2nd,0,"Angle, Mr. William A",male,34,Southampton,"Warwick, England"
+2nd,1,"Angle, Mrs. William A (Florence",female,36,Southampton,"Warwick, England"
+2nd,0,"Ashby, Mr. John",male,57,Southampton,"West Hoboken, NJ"
+2nd,0,"Bailey, Mr. Percy Andrew",male,18,Southampton,"Penzance, Cornwall / Akron, OH"
+2nd,0,"Baimbrigge, Mr. Charles Robert",male,23,Southampton,Guernsey
+2nd,1,"Ball, Mrs. (Ada E Hall)",female,36,Southampton,"Bristol, Avon / Jacksonville, F"
+2nd,0,"Banfield, Mr. Frederick James",male,28,Southampton,"Plymouth, Dorset / Houghton, MI"
+2nd,0,"Bateman, Rev. Robert James",male,51,Southampton,"Jacksonville, FL"
+2nd,1,"Beane, Mr. Edward",male,32,Southampton,"Norwich / New York, NY"
+2nd,1,"Beane, Mrs. Edward (Ethel Clark",female,19,Southampton,"Norwich / New York, NY"
+2nd,0,"Beauchamp, Mr. Henry James",male,28,Southampton,England
+2nd,1,"Becker, Master. Richard F",male,1,Southampton,"Guntur, India / Benton Harbour,"
+2nd,1,"Becker, Miss. Marion Louise",female,4,Southampton,"Guntur, India / Benton Harbour,"
+2nd,1,"Becker, Miss. Ruth Elizabeth",female,12,Southampton,"Guntur, India / Benton Harbour,"
+2nd,1,"Becker, Mrs. Allen Oliver (Nell",female,36,Southampton,"Guntur, India / Benton Harbour,"
+2nd,1,"Beesley, Mr. Lawrence",male,34,Southampton,London
+2nd,1,"Bentham, Miss. Lilian W",female,19,Southampton,"Rochester, NY"
+2nd,0,"Berriman, Mr. William John",male,23,Southampton,"St Ives, Cornwall / Calumet, MI"
+2nd,0,"Botsford, Mr. William Hull",male,26,Southampton,"Elmira, NY / Orange, NJ"
+2nd,0,"Bowenur, Mr. Solomon",male,42,Southampton,London
+2nd,0,"Bracken, Mr. James H",male,27,Southampton,"Lake Arthur, Chavez County, NM"
+2nd,1,"Brown, Miss. Amelia \""Mildred\""",female,24,Southampton,"London / Montreal, PQ"
+2nd,1,"Brown, Miss. Edith Eileen",female,15,Southampton,"Cape Town, South Africa / Seatt"
+2nd,0,"Brown, Mr. Thomas William Solom",male,60,Southampton,"Cape Town, South Africa / Seatt"
+2nd,1,"Brown, Mrs. Thomas William Solo",female,40,Southampton,"Cape Town, South Africa / Seatt"
+2nd,1,"Bryhl, Miss. Dagmar Jenny Ingeb",female,20,Southampton,"Skara, Sweden / Rockford, IL"
+2nd,0,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,Southampton,"Skara, Sweden / Rockford, IL"
+2nd,1,"Buss, Miss. Kate",female,36,Southampton,"Sittingbourne, England / San Di"
+2nd,0,"Butler, Mr. Reginald Fenton",male,25,Southampton,"Southsea, Hants"
+2nd,0,"Byles, Rev. Thomas Roussel Davi",male,42,Southampton,London
+2nd,1,"Bystrom, Mrs. (Karolina)",female,42,Southampton,"New York, NY"
+2nd,1,"Caldwell, Master. Alden Gates",male,0.833299994,Southampton,"Bangkok, Thailand / Roseville,"
+2nd,1,"Caldwell, Mr. Albert Francis",male,26,Southampton,"Bangkok, Thailand / Roseville,"
+2nd,1,"Caldwell, Mrs. Albert Francis (",female,22,Southampton,"Bangkok, Thailand / Roseville,"
+2nd,1,"Cameron, Miss. Clear Annie",female,35,Southampton,"Mamaroneck, NY"
+2nd,0,"Campbell, Mr. William",male,NA,Southampton,Belfast
+2nd,0,"Carbines, Mr. William",male,19,Southampton,"St Ives, Cornwall / Calumet, MI"
+2nd,0,"Carter, Mrs. Ernest Courtenay (",female,44,Southampton,London
+2nd,0,"Carter, Rev. Ernest Courtenay",male,54,Southampton,London
+2nd,0,"Chapman, Mr. Charles Henry",male,52,Southampton,"Bronx, NY"
+2nd,0,"Chapman, Mr. John Henry",male,37,Southampton,"Cornwall / Spokane, WA"
+2nd,0,"Chapman, Mrs. John Henry (Sara",female,29,Southampton,"Cornwall / Spokane, WA"
+2nd,1,"Christy, Miss. Julie Rachel",female,25,Southampton,London
+2nd,1,"Christy, Mrs. (Alice Frances)",female,45,Southampton,London
+2nd,0,"Clarke, Mr. Charles Valentine",male,29,Southampton,"England / San Francisco, CA"
+2nd,1,"Clarke, Mrs. Charles V (Ada Mar",female,28,Southampton,"England / San Francisco, CA"
+2nd,0,"Coleridge, Mr. Reginald Charles",male,29,Southampton,"Hartford, Huntingdonshire"
+2nd,0,"Collander, Mr. Erik Gustaf",male,28,Southampton,"Helsinki, Finland Ashtabula, Oh"
+2nd,1,"Collett, Mr. Sidney C Stuart",male,24,Southampton,"London / Fort Byron, NY"
+2nd,1,"Collyer, Miss. Marjorie \""Lottie",female,8,Southampton,"Bishopstoke, Hants / Fayette Va"
+2nd,0,"Collyer, Mr. Harvey",male,31,Southampton,"Bishopstoke, Hants / Fayette Va"
+2nd,1,"Collyer, Mrs. Harvey (Charlotte",female,31,Southampton,"Bishopstoke, Hants / Fayette Va"
+2nd,1,"Cook, Mrs. (Selena Rogers)",female,22,Southampton,Pennsylvania
+2nd,0,"Corbett, Mrs. Walter H (Irene C",female,30,Southampton,"Provo, UT"
+2nd,0,"Corey, Mrs. Percy C (Mary Phyll",female,NA,Southampton,"Upper Burma, India Pittsburgh,"
+2nd,0,"Cotterill, Mr. Henry \""Harry\""",male,21,Southampton,"Penzance, Cornwall / Akron, OH"
+2nd,0,"Cunningham, Mr. Alfred Fleming",male,NA,Southampton,Belfast
+2nd,1,"Davies, Master. John Morgan Jr",male,8,Southampton,"St Ives, Cornwall / Hancock, MI"
+2nd,0,"Davies, Mr. Charles Henry",male,18,Southampton,"Lyndhurst, England"
+2nd,1,"Davies, Mrs. John Morgan (Eliza",female,48,Southampton,"St Ives, Cornwall / Hancock, MI"
+2nd,1,"Davis, Miss. Mary",female,28,Southampton,"London / Staten Island, NY"
+2nd,0,"de Brito, Mr. Jose Joaquim",male,32,Southampton,"Portugal / Sau Paulo, Brazil"
+2nd,0,"Deacon, Mr. Percy William",male,17,Southampton,
+2nd,0,"del Carlo, Mr. Sebastiano",male,29,Cherbourg,"Lucca, Italy / California"
+2nd,1,"del Carlo, Mrs. Sebastiano (Arg",female,24,Cherbourg,"Lucca, Italy / California"
+2nd,0,"Denbury, Mr. Herbert",male,25,Southampton,"Guernsey / Elizabeth, NJ"
+2nd,0,"Dibden, Mr. William",male,18,Southampton,"New Forest, England"
+2nd,1,"Doling, Miss. Elsie",female,18,Southampton,Southampton
+2nd,1,"Doling, Mrs. John T (Ada Julia",female,34,Southampton,Southampton
+2nd,0,"Downton, Mr. William James",male,54,Southampton,"Holley, NY"
+2nd,1,"Drew, Master. Marshall Brines",male,8,Southampton,"Greenport, NY"
+2nd,0,"Drew, Mr. James Vivian",male,42,Southampton,"Greenport, NY"
+2nd,1,"Drew, Mrs. James Vivian (Lulu T",female,34,Southampton,"Greenport, NY"
+2nd,1,"Duran y More, Miss. Asuncion",female,27,Cherbourg,"Barcelona, Spain / Havana, Cuba"
+2nd,1,"Duran y More, Miss. Florentina",female,30,Cherbourg,"Barcelona, Spain / Havana, Cuba"
+2nd,0,"Eitemiller, Mr. George Floyd",male,23,Southampton,"England / Detroit, MI"
+2nd,0,"Enander, Mr. Ingvar",male,21,Southampton,"Goteborg, Sweden / Rockford, IL"
+2nd,0,"Fahlstrom, Mr. Arne Jonas",male,18,Southampton,"Oslo, Norway Bayonne, NJ"
+2nd,0,"Faunthorpe, Mr. Harry",male,40,Southampton,"England / Philadelphia, PA"
+2nd,1,"Faunthorpe, Mrs. Lizzie (Elizab",female,29,Southampton,
+2nd,0,"Fillbrook, Mr. Joseph Charles",male,18,Southampton,"Cornwall / Houghton, MI"
+2nd,0,"Fox, Mr. Stanley Hubert",male,36,Southampton,"Rochester, NY"
+2nd,0,"Frost, Mr. Anthony Wood \""Archie",male,NA,Southampton,Belfast
+2nd,0,"Funk, Miss. Annie Clemmer",female,38,Southampton,"Janjgir, India / Pennsylvania"
+2nd,0,"Fynney, Mr. Joseph J",male,35,Southampton,"Liverpool / Montreal, PQ"
+2nd,0,"Gale, Mr. Harry",male,38,Southampton,"Cornwall / Clear Creek, CO"
+2nd,0,"Gale, Mr. Shadrach",male,34,Southampton,"Cornwall / Clear Creek, CO"
+2nd,1,"Garside, Miss. Ethel",female,34,Southampton,"Brooklyn, NY"
+2nd,0,"Gaskell, Mr. Alfred",male,16,Southampton,"Liverpool / Montreal, PQ"
+2nd,0,"Gavey, Mr. Lawrence",male,26,Southampton,"Guernsey / Elizabeth, NJ"
+2nd,0,"Gilbert, Mr. William",male,47,Southampton,Cornwall
+2nd,0,"Giles, Mr. Edgar",male,21,Southampton,"Cornwall / Camden, NJ"
+2nd,0,"Giles, Mr. Frederick Edward",male,21,Southampton,"Cornwall / Camden, NJ"
+2nd,0,"Giles, Mr. Ralph",male,24,Southampton,"West Kensington, London"
+2nd,0,"Gill, Mr. John William",male,24,Southampton,"Clevedon, England"
+2nd,0,"Gillespie, Mr. William Henry",male,34,Southampton,"Vancouver, BC"
+2nd,0,"Givard, Mr. Hans Kristensen",male,30,Southampton,
+2nd,0,"Greenberg, Mr. Samuel",male,52,Southampton,"Bronx, NY"
+2nd,0,"Hale, Mr. Reginald",male,30,Southampton,"Auburn, NY"
+2nd,1,"Hamalainen, Master. Viljo",male,0.666700006,Southampton,"Detroit, MI"
+2nd,1,"Hamalainen, Mrs. William (Anna)",female,24,Southampton,"Detroit, MI"
+2nd,0,"Harbeck, Mr. William H",male,44,Southampton,"Seattle, WA / Toledo, OH"
+2nd,1,"Harper, Miss. Annie Jessie \""Nin",female,6,Southampton,"Denmark Hill, Surrey / Chicago"
+2nd,0,"Harper, Rev. John",male,28,Southampton,"Denmark Hill, Surrey / Chicago"
+2nd,1,"Harris, Mr. George",male,62,Southampton,London
+2nd,0,"Harris, Mr. Walter",male,30,Southampton,"Walthamstow, England"
+2nd,1,"Hart, Miss. Eva Miriam",female,7,Southampton,"Ilford, Essex / Winnipeg, MB"
+2nd,0,"Hart, Mr. Benjamin",male,43,Southampton,"Ilford, Essex / Winnipeg, MB"
+2nd,1,"Hart, Mrs. Benjamin (Esther Ada",female,45,Southampton,"Ilford, Essex / Winnipeg, MB"
+2nd,1,"Herman, Miss. Alice",female,24,Southampton,"Somerset / Bernardsville, NJ"
+2nd,1,"Herman, Miss. Kate",female,24,Southampton,"Somerset / Bernardsville, NJ"
+2nd,0,"Herman, Mr. Samuel",male,49,Southampton,"Somerset / Bernardsville, NJ"
+2nd,1,"Herman, Mrs. Samuel (Jane Laver",female,48,Southampton,"Somerset / Bernardsville, NJ"
+2nd,1,"Hewlett, Mrs. (Mary D Kingcome)",female,55,Southampton,"India / Rapid City, SD"
+2nd,0,"Hickman, Mr. Leonard Mark",male,24,Southampton,"West Hampstead, London / Neepaw"
+2nd,0,"Hickman, Mr. Lewis",male,32,Southampton,"West Hampstead, London / Neepaw"
+2nd,0,"Hickman, Mr. Stanley George",male,21,Southampton,"West Hampstead, London / Neepaw"
+2nd,0,"Hiltunen, Miss. Marta",female,18,Southampton,"Kontiolahti, Finland / Detroit,"
+2nd,1,"Hocking, Miss. Ellen \""Nellie\""",female,20,Southampton,"Cornwall / Akron, OH"
+2nd,0,"Hocking, Mr. Richard George",male,23,Southampton,"Cornwall / Akron, OH"
+2nd,0,"Hocking, Mr. Samuel James Metca",male,36,Southampton,"Devonport, England"
+2nd,1,"Hocking, Mrs. Elizabeth (Eliza",female,54,Southampton,"Cornwall / Akron, OH"
+2nd,0,"Hodges, Mr. Henry Price",male,50,Southampton,Southampton
+2nd,0,"Hold, Mr. Stephen",male,44,Southampton,"England / Sacramento, CA"
+2nd,1,"Hold, Mrs. Stephen (Annie Marga",female,29,Southampton,"England / Sacramento, CA"
+2nd,0,"Hood, Mr. Ambrose Jr",male,21,Southampton,"New Forest, England"
+2nd,1,"Hosono, Mr. Masabumi",male,42,Southampton,"Tokyo, Japan"
+2nd,0,"Howard, Mr. Benjamin",male,63,Southampton,"Swindon, England"
+2nd,0,"Howard, Mrs. Benjamin (Ellen Tr",female,60,Southampton,"Swindon, England"
+2nd,0,"Hunt, Mr. George Henry",male,33,Southampton,"Philadelphia, PA"
+2nd,1,"Ilett, Miss. Bertha",female,17,Southampton,Guernsey
+2nd,0,"Jacobsohn, Mr. Sidney Samuel",male,42,Southampton,London
+2nd,1,"Jacobsohn, Mrs. Sidney Samuel (",female,24,Southampton,London
+2nd,0,"Jarvis, Mr. John Denzil",male,47,Southampton,"North Evington, England"
+2nd,0,"Jefferys, Mr. Clifford Thomas",male,24,Southampton,"Guernsey / Elizabeth, NJ"
+2nd,0,"Jefferys, Mr. Ernest Wilfred",male,22,Southampton,"Guernsey / Elizabeth, NJ"
+2nd,0,"Jenkin, Mr. Stephen Curnow",male,32,Southampton,"St Ives, Cornwall / Houghton, M"
+2nd,1,"Jerwan, Mrs. Amin S (Marie Mart",female,23,Cherbourg,"New York, NY"
+2nd,0,"Kantor, Mr. Sinai",male,34,Southampton,"Moscow / Bronx, NY"
+2nd,1,"Kantor, Mrs. Sinai (Miriam Ster",female,24,Southampton,"Moscow / Bronx, NY"
+2nd,0,"Karnes, Mrs. J Frank (Claire Be",female,22,Southampton,"India / Pittsburgh, PA"
+2nd,1,"Keane, Miss. Nora A",female,NA,Queenstown,"Harrisburg, PA"
+2nd,0,"Keane, Mr. Daniel",male,35,Queenstown,
+2nd,1,"Kelly, Mrs. Florence \""Fannie\""",female,45,Southampton,"London / New York, NY"
+2nd,0,"Kirkland, Rev. Charles Leonard",male,57,Queenstown,"Glasgow / Bangor, ME"
+2nd,0,"Knight, Mr. Robert J",male,NA,Southampton,Belfast
+2nd,0,"Kvillner, Mr. Johan Henrik Joha",male,31,Southampton,"Sweden / Arlington, NJ"
+2nd,0,"Lahtinen, Mrs. William (Anna Sy",female,26,Southampton,"Minneapolis, MN"
+2nd,0,"Lahtinen, Rev. William",male,30,Southampton,"Minneapolis, MN"
+2nd,0,"Lamb, Mr. John Joseph",male,NA,Queenstown,
+2nd,1,"Laroche, Miss. Louise",female,1,Cherbourg,Paris / Haiti
+2nd,1,"Laroche, Miss. Simonne Marie An",female,3,Cherbourg,Paris / Haiti
+2nd,0,"Laroche, Mr. Joseph Philippe Le",male,25,Cherbourg,Paris / Haiti
+2nd,1,"Laroche, Mrs. Joseph (Juliette",female,22,Cherbourg,Paris / Haiti
+2nd,1,"Lehmann, Miss. Bertha",female,17,Cherbourg,"Berne, Switzerland / Central Ci"
+2nd,1,"Leitch, Miss. Jessie Wills",female,NA,Southampton,"London / Chicago, IL"
+2nd,1,"Lemore, Mrs. (Amelia Milley)",female,34,Southampton,"Chicago, IL"
+2nd,0,"Levy, Mr. Rene Jacques",male,36,Cherbourg,"Montreal, PQ"
+2nd,0,"Leyson, Mr. Robert William Norm",male,24,Southampton,
+2nd,0,"Lingane, Mr. John",male,61,Queenstown,
+2nd,0,"Louch, Mr. Charles Alexander",male,50,Southampton,"Weston-Super-Mare, Somerset"
+2nd,1,"Louch, Mrs. Charles Alexander (",female,42,Southampton,"Weston-Super-Mare, Somerset"
+2nd,0,"Mack, Mrs. (Mary)",female,57,Southampton,"Southampton / New York, NY"
+2nd,0,"Malachard, Mr. Noel",male,NA,Cherbourg,Paris
+2nd,1,"Mallet, Master. Andre",male,1,Cherbourg,"Paris / Montreal, PQ"
+2nd,0,"Mallet, Mr. Albert",male,31,Cherbourg,"Paris / Montreal, PQ"
+2nd,1,"Mallet, Mrs. Albert (Antoinette",female,24,Cherbourg,"Paris / Montreal, PQ"
+2nd,0,"Mangiavacchi, Mr. Serafino Emil",male,NA,Cherbourg,"New York, NY"
+2nd,0,"Matthews, Mr. William John",male,30,Southampton,"St Austall, Cornwall"
+2nd,0,"Maybery, Mr. Frank Hubert",male,40,Southampton,"Weston-Super-Mare / Moose Jaw,"
+2nd,0,"McCrae, Mr. Arthur Gordon",male,32,Southampton,"Sydney, Australia"
+2nd,0,"McCrie, Mr. James Matthew",male,30,Southampton,"Sarnia, ON"
+2nd,0,"McKane, Mr. Peter David",male,46,Southampton,"Rochester, NY"
+2nd,1,"Mellinger, Miss. Madeleine Viol",female,13,Southampton,"England / Bennington, VT"
+2nd,1,"Mellinger, Mrs. (Elizabeth Anne",female,41,Southampton,"England / Bennington, VT"
+2nd,1,"Mellors, Mr. William John",male,19,Southampton,"Chelsea, London"
+2nd,0,"Meyer, Mr. August",male,39,Southampton,"Harrow-on-the-Hill, Middlesex"
+2nd,0,"Milling, Mr. Jacob Christian",male,48,Southampton,"Copenhagen, Denmark"
+2nd,0,"Mitchell, Mr. Henry Michael",male,70,Southampton,"Guernsey / Montclair, NJ and/or"
+2nd,0,"Montvila, Rev. Juozas",male,27,Southampton,"Worcester, MA"
+2nd,0,"Moraweck, Dr. Ernest",male,54,Southampton,"Frankfort, KY"
+2nd,0,"Morley, Mr. Henry Samuel (\""Mr H",male,39,Southampton,
+2nd,0,"Mudd, Mr. Thomas Charles",male,16,Southampton,"Halesworth, England"
+2nd,0,"Myles, Mr. Thomas Francis",male,62,Queenstown,"Cambridge, MA"
+2nd,0,"Nasser, Mr. Nicholas",male,32.5,Cherbourg,"New York, NY"
+2nd,1,"Nasser, Mrs. Nicholas (Adele Ac",female,14,Cherbourg,"New York, NY"
+2nd,1,"Navratil, Master. Edmond Roger",male,2,Southampton,"Nice, France"
+2nd,1,"Navratil, Master. Michel M",male,3,Southampton,"Nice, France"
+2nd,0,"Navratil, Mr. Michel (\""Louis M",male,36.5,Southampton,"Nice, France"
+2nd,0,"Nesson, Mr. Israel",male,26,Southampton,"Boston, MA"
+2nd,0,"Nicholls, Mr. Joseph Charles",male,19,Southampton,"Cornwall / Hancock, MI"
+2nd,0,"Norman, Mr. Robert Douglas",male,28,Southampton,Glasgow
+2nd,1,"Nourney, Mr. Alfred (\""Baron von",male,20,Cherbourg,"Cologne, Germany"
+2nd,1,"Nye, Mrs. (Elizabeth Ramell)",female,29,Southampton,"Folkstone, Kent / New York, NY"
+2nd,0,"Otter, Mr. Richard",male,39,Southampton,"Middleburg Heights, OH"
+2nd,1,"Oxenham, Mr. Percy Thomas",male,22,Southampton,"Pondersend, England / New Durha"
+2nd,1,"Padro y Manent, Mr. Julian",male,NA,Cherbourg,"Spain / Havana, Cuba"
+2nd,0,"Pain, Dr. Alfred",male,23,Southampton,"Hamilton, ON"
+2nd,1,"Pallas y Castello, Mr. Emilio",male,29,Cherbourg,"Spain / Havana, Cuba"
+2nd,0,"Parker, Mr. Clifford Richard",male,28,Southampton,"St Andrews, Guernsey"
+2nd,0,"Parkes, Mr. Francis \""Frank\""",male,NA,Southampton,Belfast
+2nd,1,"Parrish, Mrs. (Lutie Davis)",female,50,Southampton,"Woodford County, KY"
+2nd,0,"Pengelly, Mr. Frederick William",male,19,Southampton,"Gunnislake, England / Butte, MT"
+2nd,0,"Pernot, Mr. Rene",male,NA,Cherbourg,
+2nd,0,"Peruschitz, Rev. Joseph Maria",male,41,Southampton,
+2nd,1,"Phillips, Miss. Alice Frances L",female,21,Southampton,"Ilfracombe, Devon"
+2nd,1,"Phillips, Miss. Kate Florence (",female,19,Southampton,"Worcester, England"
+2nd,0,"Phillips, Mr. Escott Robert",male,43,Southampton,"Ilfracombe, Devon"
+2nd,1,"Pinsky, Mrs. (Rosa)",female,32,Southampton,Russia
+2nd,0,"Ponesell, Mr. Martin",male,34,Southampton,"Denmark / New York, NY"
+2nd,1,"Portaluppi, Mr. Emilio Ilario G",male,30,Cherbourg,"Milford, NH"
+2nd,0,"Pulbaum, Mr. Franz",male,27,Cherbourg,Paris
+2nd,1,"Quick, Miss. Phyllis May",female,2,Southampton,"Plymouth, Devon / Detroit, MI"
+2nd,1,"Quick, Miss. Winifred Vera",female,8,Southampton,"Plymouth, Devon / Detroit, MI"
+2nd,1,"Quick, Mrs. Frederick Charles (",female,33,Southampton,"Plymouth, Devon / Detroit, MI"
+2nd,0,"Reeves, Mr. David",male,36,Southampton,"Brighton, Sussex"
+2nd,0,"Renouf, Mr. Peter Henry",male,34,Southampton,"Elizabeth, NJ"
+2nd,1,"Renouf, Mrs. Peter Henry (Lilli",female,30,Southampton,"Elizabeth, NJ"
+2nd,1,"Reynaldo, Ms. Encarnacion",female,28,Southampton,Spain
+2nd,0,"Richard, Mr. Emile",male,23,Cherbourg,"Paris / Montreal, PQ"
+2nd,1,"Richards, Master. George Sibley",male,0.833299994,Southampton,"Cornwall / Akron, OH"
+2nd,1,"Richards, Master. William Rowe",male,3,Southampton,"Cornwall / Akron, OH"
+2nd,1,"Richards, Mrs. Sidney (Emily Ho",female,24,Southampton,"Cornwall / Akron, OH"
+2nd,1,"Ridsdale, Miss. Lucy",female,50,Southampton,"London, England / Marietta, Ohi"
+2nd,0,"Rogers, Mr. Reginald Harry",male,19,Southampton,
+2nd,1,"Rugg, Miss. Emily",female,21,Southampton,"Guernsey / Wilmington, DE"
+2nd,0,"Schmidt, Mr. August",male,26,Southampton,"Newark, NJ"
+2nd,0,"Sedgwick, Mr. Charles Frederick",male,25,Southampton,Liverpool
+2nd,0,"Sharp, Mr. Percival James R",male,27,Southampton,"Hornsey, England"
+2nd,1,"Shelley, Mrs. William (Imanita",female,25,Southampton,"Deer Lodge, MT"
+2nd,1,"Silven, Miss. Lyyli Karoliina",female,18,Southampton,"Finland / Minneapolis, MN"
+2nd,1,"Sincock, Miss. Maude",female,20,Southampton,"Cornwall / Hancock, MI"
+2nd,1,"Sinkkonen, Miss. Anna",female,30,Southampton,"Finland / Washington, DC"
+2nd,0,"Sjostedt, Mr. Ernst Adolf",male,59,Southampton,"Sault St Marie, ON"
+2nd,1,"Slayter, Miss. Hilda Mary",female,30,Queenstown,"Halifax, NS"
+2nd,0,"Slemen, Mr. Richard James",male,35,Southampton,Cornwall
+2nd,1,"Smith, Miss. Marion Elsie",female,40,Southampton,
+2nd,0,"Sobey, Mr. Samuel James Hayden",male,25,Southampton,"Cornwall / Houghton, MI"
+2nd,0,"Stanton, Mr. Samuel Ward",male,41,Cherbourg,"New York, NY"
+2nd,0,"Stokes, Mr. Philip Joseph",male,25,Southampton,"Catford, Kent / Detroit, MI"
+2nd,0,"Swane, Mr. George",male,18.5,Southampton,
+2nd,0,"Sweet, Mr. George Frederick",male,14,Southampton,"Somerset / Bernardsville, NJ"
+2nd,1,"Toomey, Miss. Ellen",female,50,Southampton,"Indianapolis, IN"
+2nd,0,"Troupiansky, Mr. Moses Aaron",male,23,Southampton,
+2nd,1,"Trout, Mrs. William H (Jessie L",female,28,Southampton,"Columbus, OH"
+2nd,1,"Troutt, Miss. Edwina Celia \""Win",female,27,Southampton,"Bath, England / Massachusetts"
+2nd,0,"Turpin, Mr. William John Robert",male,29,Southampton,"Plymouth, England"
+2nd,0,"Turpin, Mrs. William John Rober",female,27,Southampton,"Plymouth, England"
+2nd,0,"Veal, Mr. James",male,40,Southampton,"Barre, Co Washington, VT"
+2nd,1,"Walcroft, Miss. Nellie",female,31,Southampton,"Mamaroneck, NY"
+2nd,0,"Ware, Mr. John James",male,30,Southampton,"Bristol, England / New Britain,"
+2nd,0,"Ware, Mr. William Jeffery",male,23,Southampton,
+2nd,1,"Ware, Mrs. John James (Florence",female,31,Southampton,"Bristol, England / New Britain,"
+2nd,0,"Watson, Mr. Ennis Hastings",male,NA,Southampton,Belfast
+2nd,1,"Watt, Miss. Bertha J",female,12,Southampton,"Aberdeen / Portland, OR"
+2nd,1,"Watt, Mrs. James (Elizabeth \""Be",female,40,Southampton,"Aberdeen / Portland, OR"
+2nd,1,"Webber, Miss. Susan",female,32.5,Southampton,"England / Hartford, CT"
+2nd,0,"Weisz, Mr. Leopold",male,27,Southampton,"Bromsgrove, England / Montreal,"
+2nd,1,"Weisz, Mrs. Leopold (Mathilde F",female,29,Southampton,"Bromsgrove, England / Montreal,"
+2nd,1,"Wells, Master. Ralph Lester",male,2,Southampton,"Cornwall / Akron, OH"
+2nd,1,"Wells, Miss. Joan",female,4,Southampton,"Cornwall / Akron, OH"
+2nd,1,"Wells, Mrs. Arthur Henry (\""Addi",female,29,Southampton,"Cornwall / Akron, OH"
+2nd,1,"West, Miss. Barbara J",female,0.916700006,Southampton,"Bournmouth, England"
+2nd,1,"West, Miss. Constance Mirium",female,5,Southampton,"Bournmouth, England"
+2nd,0,"West, Mr. Edwy Arthur",male,36,Southampton,"Bournmouth, England"
+2nd,1,"West, Mrs. Edwy Arthur (Ada Mar",female,33,Southampton,"Bournmouth, England"
+2nd,0,"Wheadon, Mr. Edward H",male,66,Southampton,"Guernsey, England / Edgewood, R"
+2nd,0,"Wheeler, Mr. Edwin \""Frederick\""",male,NA,Southampton,
+2nd,1,"Wilhelms, Mr. Charles",male,31,Southampton,"London, England"
+2nd,1,"Williams, Mr. Charles Eugene",male,NA,Southampton,"Harrow, England"
+2nd,1,"Wright, Miss. Marion",female,26,Southampton,"Yoevil, England / Cottage Grove"
+2nd,0,"Yrois, Miss. Henriette (\""Mrs Ha",female,24,Southampton,Paris
+3rd,0,"Abbing, Mr. Anthony",male,42,Southampton,
+3rd,0,"Abbott, Master. Eugene Joseph",male,13,Southampton,"East Providence, RI"
+3rd,0,"Abbott, Mr. Rossmore Edward",male,16,Southampton,"East Providence, RI"
+3rd,1,"Abbott, Mrs. Stanton (Rosa Hunt",female,35,Southampton,"East Providence, RI"
+3rd,1,"Abelseth, Miss. Karen Marie",female,16,Southampton,"Norway Los Angeles, CA"
+3rd,1,"Abelseth, Mr. Olaus Jorgensen",male,25,Southampton,"Perkins County, SD"
+3rd,1,"Abrahamsson, Mr. Abraham August",male,20,Southampton,"Taalintehdas, Finland Hoboken,"
+3rd,1,"Abrahim, Mrs. Joseph (Sophie Ha",female,18,Cherbourg,"Greensburg, PA"
+3rd,0,"Adahl, Mr. Mauritz Nils Martin",male,30,Southampton,"Asarum, Sweden Brooklyn, NY"
+3rd,0,"Adams, Mr. John",male,26,Southampton,"Bournemouth, England"
+3rd,0,"Ahlin, Mrs. Johan (Johanna Pers",female,40,Southampton,"Sweden Akeley, MN"
+3rd,1,"Aks, Master. Philip Frank",male,0.833299994,Southampton,"London, England Norfolk, VA"
+3rd,1,"Aks, Mrs. Sam (Leah Rosen)",female,18,Southampton,"London, England Norfolk, VA"
+3rd,1,"Albimona, Mr. Nassef Cassem",male,26,Cherbourg,"Syria Fredericksburg, VA"
+3rd,0,"Alexander, Mr. William",male,26,Southampton,"England Albion, NY"
+3rd,0,"Alhomaki, Mr. Ilmari Rudolf",male,20,Southampton,"Salo, Finland Astoria, OR"
+3rd,0,"Ali, Mr. Ahmed",male,24,Southampton,
+3rd,0,"Ali, Mr. William",male,25,Southampton,Argentina
+3rd,0,"Allen, Mr. William Henry",male,35,Southampton,"Lower Clapton, Middlesex or Erd"
+3rd,0,"Allum, Mr. Owen George",male,18,Southampton,"Windsor, England New York, NY"
+3rd,0,"Andersen, Mr. Albert Karvin",male,32,Southampton,"Bergen, Norway"
+3rd,1,"Andersen-Jensen, Miss. Carla Ch",female,19,Southampton,
+3rd,0,"Andersson, Master. Sigvard Hara",male,4,Southampton,"Sweden Winnipeg, MN"
+3rd,0,"Andersson, Miss. Ebba Iris Alfr",female,6,Southampton,"Sweden Winnipeg, MN"
+3rd,0,"Andersson, Miss. Ellis Anna Mar",female,2,Southampton,"Sweden Winnipeg, MN"
+3rd,1,"Andersson, Miss. Erna Alexandra",female,17,Southampton,"Ruotsinphyhtaa, Finland New Yor"
+3rd,0,"Andersson, Miss. Ida Augusta Ma",female,38,Southampton,"Vadsbro, Sweden Ministee, MI"
+3rd,0,"Andersson, Miss. Ingeborg Const",female,9,Southampton,"Sweden Winnipeg, MN"
+3rd,0,"Andersson, Miss. Sigrid Elisabe",female,11,Southampton,"Sweden Winnipeg, MN"
+3rd,0,"Andersson, Mr. Anders Johan",male,39,Southampton,"Sweden Winnipeg, MN"
+3rd,1,"Andersson, Mr. August Edvard (\""",male,27,Southampton,
+3rd,0,"Andersson, Mr. Johan Samuel",male,26,Southampton,"Hartford, CT"
+3rd,0,"Andersson, Mrs. Anders Johan (A",female,39,Southampton,"Sweden Winnipeg, MN"
+3rd,0,"Andreasson, Mr. Paul Edvin",male,20,Southampton,"Sweden Chicago, IL"
+3rd,0,"Angheloff, Mr. Minko",male,26,Southampton,"Bulgaria Chicago, IL"
+3rd,0,"Arnold-Franchi, Mr. Josef",male,25,Southampton,"Altdorf, Switzerland"
+3rd,0,"Arnold-Franchi, Mrs. Josef (Jos",female,18,Southampton,"Altdorf, Switzerland"
+3rd,0,"Aronsson, Mr. Ernst Axel Algot",male,24,Southampton,"Sweden Joliet, IL"
+3rd,0,"Asim, Mr. Adola",male,35,Southampton,
+3rd,0,"Asplund, Master. Carl Edgar",male,5,Southampton,"Sweden  Worcester, MA"
+3rd,0,"Asplund, Master. Clarence Gusta",male,9,Southampton,"Sweden Worcester, MA"
+3rd,1,"Asplund, Master. Edvin Rojj Fel",male,3,Southampton,"Sweden Worcester, MA"
+3rd,0,"Asplund, Master. Filip Oscar",male,13,Southampton,"Sweden Worcester, MA"
+3rd,1,"Asplund, Miss. Lillian Gertrud",female,5,Southampton,"Sweden Worcester, MA"
+3rd,0,"Asplund, Mr. Carl Oscar Vilhelm",male,40,Southampton,"Sweden  Worcester, MA"
+3rd,1,"Asplund, Mr. Johan Charles",male,23,Southampton,"Oskarshamn, Sweden Minneapolis,"
+3rd,1,"Asplund, Mrs. Carl Oscar (Selma",female,38,Southampton,"Sweden  Worcester, MA"
+3rd,1,"Assaf Khalil, Mrs. Mariana (\""Mi",female,45,Cherbourg,"Ottawa, ON"
+3rd,0,"Assaf, Mr. Gerios",male,21,Cherbourg,"Ottawa, ON"
+3rd,0,"Assam, Mr. Ali",male,23,Southampton,
+3rd,0,"Attalah, Miss. Malake",female,17,Cherbourg,
+3rd,0,"Attalah, Mr. Sleiman",male,30,Cherbourg,"Ottawa, ON"
+3rd,0,"Augustsson, Mr. Albert",male,23,Southampton,"Krakoryd, Sweden Bloomington, I"
+3rd,1,"Ayoub, Miss. Banoura",female,13,Cherbourg,"Syria Youngstown, OH"
+3rd,0,"Baccos, Mr. Raffull",male,20,Cherbourg,
+3rd,0,"Backstrom, Mr. Karl Alfred",male,32,Southampton,"Ruotsinphytaa, Finland New York"
+3rd,1,"Backstrom, Mrs. Karl Alfred (Ma",female,33,Southampton,"Ruotsinphytaa, Finland New York"
+3rd,1,"Baclini, Miss. Eugenie",female,0.75,Cherbourg,"Syria New York, NY"
+3rd,1,"Baclini, Miss. Helene Barbara",female,0.75,Cherbourg,"Syria New York, NY"
+3rd,1,"Baclini, Miss. Marie Catherine",female,5,Cherbourg,"Syria New York, NY"
+3rd,1,"Baclini, Mrs. Solomon (Latifa Q",female,24,Cherbourg,"Syria New York, NY"
+3rd,1,"Badman, Miss. Emily Louisa",female,18,Southampton,"London Skanteales, NY"
+3rd,0,"Badt, Mr. Mohamed",male,40,Cherbourg,
+3rd,0,"Balkic, Mr. Cerin",male,26,Southampton,
+3rd,1,"Barah, Mr. Hanna Assi",male,20,Cherbourg,
+3rd,0,"Barbara, Miss. Saiide",female,18,Cherbourg,"Syria Ottawa, ON"
+3rd,0,"Barbara, Mrs. (Catherine David)",female,45,Cherbourg,"Syria Ottawa, ON"
+3rd,0,"Barry, Miss. Julia",female,27,Queenstown,"New York, NY"
+3rd,0,"Barton, Mr. David John",male,22,Southampton,"England New York, NY"
+3rd,0,"Beavan, Mr. William Thomas",male,19,Southampton,England
+3rd,0,"Bengtsson, Mr. John Viktor",male,26,Southampton,"Krakudden, Sweden Moune, IL"
+3rd,0,"Berglund, Mr. Karl Ivar Sven",male,22,Southampton,"Tranvik, Finland New York"
+3rd,0,"Betros, Master. Seman",male,NA,Cherbourg,
+3rd,0,"Betros, Mr. Tannous",male,20,Cherbourg,Syria
+3rd,1,"Bing, Mr. Lee",male,32,Southampton,"Hong Kong New York, NY"
+3rd,0,"Birkeland, Mr. Hans Martin Mons",male,21,Southampton,"Brennes, Norway New York"
+3rd,0,"Bjorklund, Mr. Ernst Herbert",male,18,Southampton,"Stockholm, Sweden New York"
+3rd,0,"Bostandyeff, Mr. Guentcho",male,26,Southampton,"Bulgaria Chicago, IL"
+3rd,0,"Boulos, Master. Akar",male,6,Cherbourg,"Syria Kent, ON"
+3rd,0,"Boulos, Miss. Nourelain",female,9,Cherbourg,"Syria Kent, ON"
+3rd,0,"Boulos, Mr. Hanna",male,NA,Cherbourg,Syria
+3rd,0,"Boulos, Mrs. Joseph (Sultana)",female,NA,Cherbourg,"Syria Kent, ON"
+3rd,0,"Bourke, Miss. Mary",female,NA,Queenstown,"Ireland Chicago, IL"
+3rd,0,"Bourke, Mr. John",male,40,Queenstown,"Ireland Chicago, IL"
+3rd,0,"Bourke, Mrs. John (Catherine)",female,32,Queenstown,"Ireland Chicago, IL"
+3rd,0,"Bowen, Mr. David John \""Dai\""",male,21,Southampton,"Treherbert, Cardiff, Wales"
+3rd,1,"Bradley, Miss. Bridget Delia",female,22,Queenstown,"Kingwilliamstown, Co Cork, Irel"
+3rd,0,"Braf, Miss. Elin Ester Maria",female,20,Southampton,"Medeltorp, Sweden Chicago, IL"
+3rd,0,"Braund, Mr. Lewis Richard",male,29,Southampton,"Bridgerule, Devon"
+3rd,0,"Braund, Mr. Owen Harris",male,22,Southampton,"Bridgerule, Devon"
+3rd,0,"Brobeck, Mr. Karl Rudolf",male,22,Southampton,"Sweden Worcester, MA"
+3rd,0,"Brocklebank, Mr. William Alfred",male,35,Southampton,"Broomfield, Chelmsford, England"
+3rd,0,"Buckley, Miss. Katherine",female,18.5,Queenstown,"Co Cork, Ireland Roxbury, MA"
+3rd,1,"Buckley, Mr. Daniel",male,21,Queenstown,"Kingwilliamstown, Co Cork, Irel"
+3rd,0,"Burke, Mr. Jeremiah",male,19,Queenstown,"Co Cork, Ireland Charlestown, M"
+3rd,0,"Burns, Miss. Mary Delia",female,18,Queenstown,"Co Sligo, Ireland New York, NY"
+3rd,0,"Cacic, Miss. Manda",female,21,Southampton,
+3rd,0,"Cacic, Miss. Marija",female,30,Southampton,
+3rd,0,"Cacic, Mr. Jego Grga",male,18,Southampton,
+3rd,0,"Cacic, Mr. Luka",male,38,Southampton,Croatia
+3rd,0,"Calic, Mr. Jovo",male,17,Southampton,
+3rd,0,"Calic, Mr. Petar",male,17,Southampton,
+3rd,0,"Canavan, Miss. Mary",female,21,Queenstown,
+3rd,0,"Canavan, Mr. Patrick",male,21,Queenstown,"Ireland Philadelphia, PA"
+3rd,0,"Cann, Mr. Ernest Charles",male,21,Southampton,
+3rd,0,"Caram, Mr. Joseph",male,NA,Cherbourg,"Ottawa, ON"
+3rd,0,"Caram, Mrs. Joseph (Maria Elias",female,NA,Cherbourg,"Ottawa, ON"
+3rd,0,"Carlsson, Mr. August Sigfrid",male,28,Southampton,"Dagsas, Sweden Fower, MN"
+3rd,0,"Carlsson, Mr. Carl Robert",male,24,Southampton,"Goteborg, Sweden Huntley, IL"
+3rd,1,"Carr, Miss. Helen \""Ellen\""",female,16,Queenstown,"Co Longford, Ireland New York,"
+3rd,0,"Carr, Miss. Jeannie",female,37,Queenstown,"Co Sligo, Ireland Hartford, CT"
+3rd,0,"Carver, Mr. Alfred John",male,28,Southampton,"St Denys, Southampton, Hants"
+3rd,0,"Celotti, Mr. Francesco",male,24,Southampton,London
+3rd,0,"Charters, Mr. David",male,21,Queenstown,"Ireland New York, NY"
+3rd,1,"Chip, Mr. Chang",male,32,Southampton,"Hong Kong New York, NY"
+3rd,0,"Christmann, Mr. Emil",male,29,Southampton,
+3rd,0,"Chronopoulos, Mr. Apostolos",male,26,Cherbourg,Greece
+3rd,0,"Chronopoulos, Mr. Demetrios",male,18,Cherbourg,Greece
+3rd,0,"Coelho, Mr. Domingos Fernandeo",male,20,Southampton,Portugal
+3rd,1,"Cohen, Mr. Gurshon \""Gus\""",male,18,Southampton,"London Brooklyn, NY"
+3rd,0,"Colbert, Mr. Patrick",male,24,Queenstown,"Co Limerick, Ireland Sherbrooke"
+3rd,0,"Coleff, Mr. Peju",male,36,Southampton,"Bulgaria Chicago, IL"
+3rd,0,"Coleff, Mr. Satio",male,24,Southampton,
+3rd,0,"Conlon, Mr. Thomas Henry",male,31,Queenstown,"Philadelphia, PA"
+3rd,0,"Connaghton, Mr. Michael",male,31,Queenstown,"Ireland Brooklyn, NY"
+3rd,1,"Connolly, Miss. Kate",female,22,Queenstown,Ireland
+3rd,0,"Connolly, Miss. Kate",female,30,Queenstown,Ireland
+3rd,0,"Connors, Mr. Patrick",male,70.5,Queenstown,
+3rd,0,"Cook, Mr. Jacob",male,43,Southampton,
+3rd,0,"Cor, Mr. Bartol",male,35,Southampton,Austria
+3rd,0,"Cor, Mr. Ivan",male,27,Southampton,Austria
+3rd,0,"Cor, Mr. Liudevit",male,19,Southampton,Austria
+3rd,0,"Corn, Mr. Harry",male,30,Southampton,London
+3rd,1,"Coutts, Master. Eden Leslie \""Ne",male,9,Southampton,"England Brooklyn, NY"
+3rd,1,"Coutts, Master. William Loch \""W",male,3,Southampton,"England Brooklyn, NY"
+3rd,1,"Coutts, Mrs. William (Winnie \""M",female,36,Southampton,"England Brooklyn, NY"
+3rd,0,"Coxon, Mr. Daniel",male,59,Southampton,"Merrill, WI"
+3rd,0,"Crease, Mr. Ernest James",male,19,Southampton,"Bristol, England Cleveland, OH"
+3rd,1,"Cribb, Miss. Laura Alice",female,17,Southampton,"Bournemouth, England Newark, NJ"
+3rd,0,"Cribb, Mr. John Hatfield",male,44,Southampton,"Bournemouth, England Newark, NJ"
+3rd,0,"Culumovic, Mr. Jeso",male,17,Southampton,Austria-Hungary
+3rd,0,"Daher, Mr. Shedid",male,22.5,Cherbourg,
+3rd,1,"Dahl, Mr. Karl Edwart",male,45,Southampton,"Australia Fingal, ND"
+3rd,0,"Dahlberg, Miss. Gerda Ulrika",female,22,Southampton,"Norrlot, Sweden Chicago, IL"
+3rd,0,"Dakic, Mr. Branko",male,19,Southampton,Austria
+3rd,1,"Daly, Miss. Margaret Marcella \""",female,30,Queenstown,"Co Athlone, Ireland New York, N"
+3rd,1,"Daly, Mr. Eugene Patrick",male,29,Queenstown,"Co Athlone, Ireland New York, N"
+3rd,0,"Danbom, Master. Gilbert Sigvard",male,0.333299994,Southampton,"Stanton, IA"
+3rd,0,"Danbom, Mr. Ernst Gilbert",male,34,Southampton,"Stanton, IA"
+3rd,0,"Danbom, Mrs. Ernst Gilbert (Ann",female,28,Southampton,"Stanton, IA"
+3rd,0,"Danoff, Mr. Yoto",male,27,Southampton,"Bulgaria Chicago, IL"
+3rd,0,"Dantcheff, Mr. Ristiu",male,25,Southampton,"Bulgaria Chicago, IL"
+3rd,0,"Davies, Mr. Alfred J",male,24,Southampton,"West Bromwich, England Pontiac,"
+3rd,0,"Davies, Mr. Evan",male,22,Southampton,
+3rd,0,"Davies, Mr. John Samuel",male,21,Southampton,"West Bromwich, England Pontiac,"
+3rd,0,"Davies, Mr. Joseph",male,17,Southampton,"West Bromwich, England Pontiac,"
+3rd,0,"Davison, Mr. Thomas Henry",male,NA,Southampton,"Liverpool, England Bedford, OH"
+3rd,1,"Davison, Mrs. Thomas Henry (Mar",female,NA,Southampton,"Liverpool, England Bedford, OH"
+3rd,1,"de Messemaeker, Mr. Guillaume J",male,36.5,Southampton,"Tampico, MT"
+3rd,1,"de Messemaeker, Mrs. Guillaume",female,36,Southampton,"Tampico, MT"
+3rd,1,"de Mulder, Mr. Theodore",male,30,Southampton,"Belgium Detroit, MI"
+3rd,0,"de Pelsmaeker, Mr. Alfons",male,16,Southampton,
+3rd,1,"Dean, Master. Bertram Vere",male,1,Southampton,"Devon, England Wichita, KS"
+3rd,1,"Dean, Miss. Elizabeth Gladys \""M",female,0.166700006,Southampton,"Devon, England Wichita, KS"
+3rd,0,"Dean, Mr. Bertram Frank",male,26,Southampton,"Devon, England Wichita, KS"
+3rd,1,"Dean, Mrs. Bertram (Eva Georget",female,33,Southampton,"Devon, England Wichita, KS"
+3rd,0,"Delalic, Mr. Redjo",male,25,Southampton,
+3rd,0,"Demetri, Mr. Marinko",male,NA,Southampton,
+3rd,0,"Denkoff, Mr. Mitto",male,NA,Southampton,"Bulgaria Coon Rapids, IA"
+3rd,0,"Dennis, Mr. Samuel",male,22,Southampton,
+3rd,0,"Dennis, Mr. William",male,36,Southampton,
+3rd,1,"Devaney, Miss. Margaret Delia",female,19,Queenstown,"Kilmacowen, Co Sligo, Ireland N"
+3rd,0,"Dika, Mr. Mirko",male,17,Southampton,
+3rd,0,"Dimic, Mr. Jovan",male,42,Southampton,
+3rd,0,"Dintcheff, Mr. Valtcho",male,43,Southampton,
+3rd,0,"Doharr, Mr. Tannous",male,NA,Cherbourg,
+3rd,0,"Dooley, Mr. Patrick",male,32,Queenstown,"Ireland New York, NY"
+3rd,1,"Dorking, Mr. Edward Arthur",male,19,Southampton,"England Oglesby, IL"
+3rd,1,"Dowdell, Miss. Elizabeth",female,30,Southampton,"Union Hill, NJ"
+3rd,0,"Doyle, Miss. Elizabeth",female,24,Queenstown,"Ireland New York, NY"
+3rd,1,"Drapkin, Miss. Jennie",female,23,Southampton,"London New York, NY"
+3rd,0,"Drazenoic, Mr. Jozef",male,33,Cherbourg,"Austria Niagara Falls, NY"
+3rd,0,"Duane, Mr. Frank",male,65,Queenstown,
+3rd,1,"Duquemin, Mr. Joseph",male,24,Southampton,"England Albion, NY"
+3rd,0,"Dyker, Mr. Adolf Fredrik",male,23,Southampton,"West Haven, CT"
+3rd,1,"Dyker, Mrs. Adolf Fredrik (Anna",female,22,Southampton,"West Haven, CT"
+3rd,0,"Edvardsson, Mr. Gustaf Hjalmar",male,18,Southampton,"Tofta, Sweden Joliet, IL"
+3rd,0,"Eklund, Mr. Hans Linus",male,16,Southampton,"Karberg, Sweden Jerome Junction"
+3rd,0,"Ekstrom, Mr. Johan",male,45,Southampton,"Effington Rut, SD"
+3rd,0,"Elias, Mr. Dibo",male,NA,Cherbourg,
+3rd,0,"Elias, Mr. Joseph",male,39,Cherbourg,"Syria Ottawa, ON"
+3rd,0,"Elias, Mr. Joseph Jr",male,17,Cherbourg,
+3rd,0,"Elias, Mr. Tannous",male,15,Cherbourg,Syria
+3rd,0,"Elsbury, Mr. William James",male,47,Southampton,"Illinois, USA"
+3rd,1,"Emanuel, Miss. Virginia Ethel",female,5,Southampton,"New York, NY"
+3rd,0,"Emir, Mr. Farred Chehab",male,NA,Cherbourg,
+3rd,0,"Everett, Mr. Thomas James",male,40.5,Southampton,
+3rd,0,"Farrell, Mr. James",male,40.5,Queenstown,"Aughnacliff, Co Longford, Irela"
+3rd,1,"Finoli, Mr. Luigi",male,NA,Southampton,"Italy Philadelphia, PA"
+3rd,0,"Fischer, Mr. Eberhard Thelander",male,18,Southampton,
+3rd,0,"Fleming, Miss. Honora",female,NA,Queenstown,
+3rd,0,"Flynn, Mr. James",male,NA,Queenstown,
+3rd,0,"Flynn, Mr. John",male,NA,Queenstown,
+3rd,0,"Foley, Mr. Joseph",male,26,Queenstown,"Ireland Chicago, IL"
+3rd,0,"Foley, Mr. William",male,NA,Queenstown,Ireland
+3rd,1,"Foo, Mr. Choong",male,NA,Southampton,"Hong Kong New York, NY"
+3rd,0,"Ford, Miss. Doolina Margaret \""D",female,21,Southampton,"Rotherfield, Sussex, England Es"
+3rd,0,"Ford, Miss. Robina Maggie \""Ruby",female,9,Southampton,"Rotherfield, Sussex, England Es"
+3rd,0,"Ford, Mr. Arthur",male,NA,Southampton,"Bridgwater, Somerset, England"
+3rd,0,"Ford, Mr. Edward Watson",male,18,Southampton,"Rotherfield, Sussex, England Es"
+3rd,0,"Ford, Mr. William Neal",male,16,Southampton,"Rotherfield, Sussex, England Es"
+3rd,0,"Ford, Mrs. Edward (Margaret Ann",female,48,Southampton,"Rotherfield, Sussex, England Es"
+3rd,0,"Fox, Mr. Patrick",male,NA,Queenstown,"Ireland New York, NY"
+3rd,0,"Franklin, Mr. Charles (Charles",male,NA,Southampton,
+3rd,0,"Gallagher, Mr. Martin",male,25,Queenstown,"New York, NY"
+3rd,0,"Garfirth, Mr. John",male,NA,Southampton,
+3rd,0,"Gheorgheff, Mr. Stanio",male,NA,Cherbourg,
+3rd,0,"Gilinski, Mr. Eliezer",male,22,Southampton,
+3rd,1,"Gilnagh, Miss. Katherine \""Katie",female,16,Queenstown,"Co Longford, Ireland New York,"
+3rd,1,"Glynn, Miss. Mary Agatha",female,NA,Queenstown,"Co Clare, Ireland Washington, D"
+3rd,1,"Goldsmith, Master. Frank John W",male,9,Southampton,"Strood, Kent, England Detroit,"
+3rd,0,"Goldsmith, Mr. Frank John",male,33,Southampton,"Strood, Kent, England Detroit,"
+3rd,0,"Goldsmith, Mr. Nathan",male,41,Southampton,"Philadelphia, PA"
+3rd,1,"Goldsmith, Mrs. Frank John (Emi",female,31,Southampton,"Strood, Kent, England Detroit,"
+3rd,0,"Goncalves, Mr. Manuel Estanslas",male,38,Southampton,Portugal
+3rd,0,"Goodwin, Master. Harold Victor",male,9,Southampton,"Wiltshire, England Niagara Fall"
+3rd,0,"Goodwin, Master. Sidney Leonard",male,1,Southampton,"Wiltshire, England Niagara Fall"
+3rd,0,"Goodwin, Master. William Freder",male,11,Southampton,"Wiltshire, England Niagara Fall"
+3rd,0,"Goodwin, Miss. Jessie Allis",female,10,Southampton,"Wiltshire, England Niagara Fall"
+3rd,0,"Goodwin, Miss. Lillian Amy",female,16,Southampton,"Wiltshire, England Niagara Fall"
+3rd,0,"Goodwin, Mr. Charles Edward",male,14,Southampton,"Wiltshire, England Niagara Fall"
+3rd,0,"Goodwin, Mr. Charles Frederick",male,40,Southampton,"Wiltshire, England Niagara Fall"
+3rd,0,"Goodwin, Mrs. Frederick (August",female,43,Southampton,"Wiltshire, England Niagara Fall"
+3rd,0,"Green, Mr. George Henry",male,51,Southampton,"Dorking, Surrey, England"
+3rd,0,"Gronnestad, Mr. Daniel Danielse",male,32,Southampton,"Foresvik, Norway Portland, ND"
+3rd,0,"Guest, Mr. Robert",male,NA,Southampton,
+3rd,0,"Gustafsson, Mr. Alfred Ossian",male,20,Southampton,"Waukegan, Chicago, IL"
+3rd,0,"Gustafsson, Mr. Anders Vilhelm",male,37,Southampton,"Ruotsinphytaa, Finland New York"
+3rd,0,"Gustafsson, Mr. Johan Birger",male,28,Southampton,"Ruotsinphytaa, Finland New York"
+3rd,0,"Gustafsson, Mr. Karl Gideon",male,19,Southampton,"Myren, Sweden New York, NY"
+3rd,0,"Haas, Miss. Aloisia",female,24,Southampton,
+3rd,0,"Hagardon, Miss. Kate",female,17,Queenstown,
+3rd,0,"Hagland, Mr. Ingvald Olai Olsen",male,NA,Southampton,
+3rd,0,"Hagland, Mr. Konrad Mathias Rei",male,NA,Southampton,
+3rd,0,"Hakkarainen, Mr. Pekka Pietari",male,28,Southampton,
+3rd,1,"Hakkarainen, Mrs. Pekka Pietari",female,24,Southampton,
+3rd,0,"Hampe, Mr. Leon",male,20,Southampton,
+3rd,0,"Hanna, Mr. Mansour",male,23.5,Cherbourg,
+3rd,0,"Hansen, Mr. Claus Peter",male,41,Southampton,
+3rd,0,"Hansen, Mr. Henrik Juul",male,26,Southampton,
+3rd,0,"Hansen, Mr. Henry Damsgaard",male,21,Southampton,
+3rd,1,"Hansen, Mrs. Claus Peter (Jenni",female,45,Southampton,
+3rd,0,"Harknett, Miss. Alice Phoebe",female,NA,Southampton,
+3rd,0,"Harmer, Mr. Abraham (David Lish",male,25,Southampton,
+3rd,0,"Hart, Mr. Henry",male,NA,Queenstown,
+3rd,0,"Hassan, Mr. Houssein G N",male,11,Cherbourg,
+3rd,1,"Healy, Miss. Hanora \""Nora\""",female,NA,Queenstown,
+3rd,1,"Hedman, Mr. Oskar Arvid",male,27,Southampton,
+3rd,1,"Hee, Mr. Ling",male,NA,Southampton,
+3rd,0,"Hegarty, Miss. Hanora \""Nora\""",female,18,Queenstown,
+3rd,1,"Heikkinen, Miss. Laina",female,26,Southampton,
+3rd,0,"Heininen, Miss. Wendla Maria",female,23,Southampton,
+3rd,1,"Hellstrom, Miss. Hilda Maria",female,22,Southampton,
+3rd,0,"Hendekovic, Mr. Ignjac",male,28,Southampton,
+3rd,0,"Henriksson, Miss. Jenny Lovisa",female,28,Southampton,
+3rd,0,"Henry, Miss. Delia",female,NA,Queenstown,
+3rd,1,"Hirvonen, Miss. Hildur E",female,2,Southampton,
+3rd,1,"Hirvonen, Mrs. Alexander (Helga",female,22,Southampton,
+3rd,0,"Holm, Mr. John Fredrik Alexande",male,43,Southampton,
+3rd,0,"Holthen, Mr. Johan Martin",male,28,Southampton,
+3rd,1,"Honkanen, Miss. Eliina",female,27,Southampton,
+3rd,0,"Horgan, Mr. John",male,NA,Queenstown,
+3rd,1,"Howard, Miss. May Elizabeth",female,NA,Southampton,
+3rd,0,"Humblen, Mr. Adolf Mathias Nico",male,42,Southampton,
+3rd,1,"Hyman, Mr. Abraham",male,NA,Southampton,
+3rd,0,"Ibrahim Shawah, Mr. Yousseff",male,30,Cherbourg,
+3rd,0,"Ilieff, Mr. Ylio",male,NA,Southampton,
+3rd,0,"Ilmakangas, Miss. Ida Livija",female,27,Southampton,
+3rd,0,"Ilmakangas, Miss. Pieta Sofia",female,25,Southampton,
+3rd,0,"Ivanoff, Mr. Kanio",male,NA,Southampton,
+3rd,1,"Jalsevac, Mr. Ivan",male,29,Cherbourg,
+3rd,1,"Jansson, Mr. Carl Olof",male,21,Southampton,
+3rd,0,"Jardin, Mr. Jose Neto",male,NA,Southampton,
+3rd,0,"Jensen, Mr. Hans Peder",male,20,Southampton,
+3rd,0,"Jensen, Mr. Niels Peder",male,48,Southampton,
+3rd,0,"Jensen, Mr. Svend Lauritz",male,17,Southampton,
+3rd,1,"Jermyn, Miss. Annie",female,NA,Queenstown,
+3rd,1,"Johannesen-Bratthammer, Mr. Ber",male,NA,Southampton,
+3rd,0,"Johanson, Mr. Jakob Alfred",male,34,Southampton,
+3rd,1,"Johansson Palmquist, Mr. Oskar",male,26,Southampton,
+3rd,0,"Johansson, Mr. Erik",male,22,Southampton,
+3rd,0,"Johansson, Mr. Gustaf Joel",male,33,Southampton,
+3rd,0,"Johansson, Mr. Karl Johan",male,31,Southampton,
+3rd,0,"Johansson, Mr. Nils",male,29,Southampton,
+3rd,1,"Johnson, Master. Harold Theodor",male,4,Southampton,
+3rd,1,"Johnson, Miss. Eleanor Ileen",female,1,Southampton,
+3rd,0,"Johnson, Mr. Alfred",male,49,Southampton,
+3rd,0,"Johnson, Mr. Malkolm Joackim",male,33,Southampton,
+3rd,0,"Johnson, Mr. William Cahoone Jr",male,19,Southampton,
+3rd,1,"Johnson, Mrs. Oscar W (Elisabet",female,27,Southampton,
+3rd,0,"Johnston, Master. William Arthu",male,NA,Southampton,
+3rd,0,"Johnston, Miss. Catherine Helen",female,NA,Southampton,
+3rd,0,"Johnston, Mr. Andrew G",male,NA,Southampton,
+3rd,0,"Johnston, Mrs. Andrew G (Elizab",female,NA,Southampton,
+3rd,0,"Jonkoff, Mr. Lalio",male,23,Southampton,
+3rd,1,"Jonsson, Mr. Carl",male,32,Southampton,
+3rd,0,"Jonsson, Mr. Nils Hilding",male,27,Southampton,
+3rd,0,"Jussila, Miss. Katriina",female,20,Southampton,
+3rd,0,"Jussila, Miss. Mari Aina",female,21,Southampton,
+3rd,1,"Jussila, Mr. Eiriik",male,32,Southampton,
+3rd,0,"Kallio, Mr. Nikolai Erland",male,17,Southampton,
+3rd,0,"Kalvik, Mr. Johannes Halvorsen",male,21,Southampton,
+3rd,0,"Karaic, Mr. Milan",male,30,Southampton,
+3rd,1,"Karlsson, Mr. Einar Gervasius",male,21,Southampton,
+3rd,0,"Karlsson, Mr. Julius Konrad Eug",male,33,Southampton,
+3rd,0,"Karlsson, Mr. Nils August",male,22,Southampton,
+3rd,1,"Karun, Miss. Manca",female,4,Cherbourg,
+3rd,1,"Karun, Mr. Franz",male,39,Cherbourg,
+3rd,0,"Kassem, Mr. Fared",male,NA,Cherbourg,
+3rd,0,"Katavelas, Mr. Vassilios (\""Cata",male,18.5,Cherbourg,
+3rd,0,"Keane, Mr. Andrew \""Andy\""",male,NA,Queenstown,
+3rd,0,"Keefe, Mr. Arthur",male,NA,Southampton,
+3rd,1,"Kelly, Miss. Anna Katherine \""An",female,NA,Queenstown,
+3rd,1,"Kelly, Miss. Mary",female,NA,Queenstown,
+3rd,0,"Kelly, Mr. James",male,34.5,Queenstown,
+3rd,0,"Kelly, Mr. James",male,44,Southampton,
+3rd,1,"Kennedy, Mr. John",male,NA,Queenstown,
+3rd,0,"Khalil, Mr. Betros",male,NA,Cherbourg,
+3rd,0,"Khalil, Mrs. Betros (Zahie \""Mar",female,NA,Cherbourg,
+3rd,0,"Kiernan, Mr. John",male,NA,Queenstown,
+3rd,0,"Kiernan, Mr. Philip",male,NA,Queenstown,
+3rd,0,"Kilgannon, Mr. Thomas J",male,NA,Queenstown,
+3rd,0,"Kink, Miss. Maria",female,22,Southampton,
+3rd,0,"Kink, Mr. Vincenz",male,26,Southampton,
+3rd,1,"Kink-Heilmann, Miss. Luise Gret",female,4,Southampton,
+3rd,1,"Kink-Heilmann, Mr. Anton",male,29,Southampton,
+3rd,1,"Kink-Heilmann, Mrs. Anton (Luis",female,26,Southampton,
+3rd,0,"Klasen, Miss. Gertrud Emilia",female,1,Southampton,
+3rd,0,"Klasen, Mr. Klas Albin",male,18,Southampton,
+3rd,0,"Klasen, Mrs. (Hulda Kristina Eu",female,36,Southampton,
+3rd,0,"Kraeff, Mr. Theodor",male,NA,Cherbourg,
+3rd,1,"Krekorian, Mr. Neshan",male,25,Cherbourg,
+3rd,0,"Lahoud, Mr. Sarkis",male,NA,Cherbourg,
+3rd,0,"Laitinen, Miss. Kristina Sofia",female,37,Southampton,
+3rd,0,"Laleff, Mr. Kristo",male,NA,Southampton,
+3rd,1,"Lam, Mr. Ali",male,NA,Southampton,
+3rd,0,"Lam, Mr. Len",male,NA,Southampton,
+3rd,1,"Landergren, Miss. Aurora Adelia",female,22,Southampton,
+3rd,0,"Lane, Mr. Patrick",male,NA,Queenstown,
+3rd,1,"Lang, Mr. Fang",male,26,Southampton,
+3rd,0,"Larsson, Mr. August Viktor",male,29,Southampton,
+3rd,0,"Larsson, Mr. Bengt Edvin",male,29,Southampton,
+3rd,0,"Larsson-Rondberg, Mr. Edvard A",male,22,Southampton,
+3rd,1,"Leeni, Mr. Fahim (\""Philip Zenni",male,22,Cherbourg,
+3rd,0,"Lefebre, Master. Henry Forbes",male,NA,Southampton,
+3rd,0,"Lefebre, Miss. Ida",female,NA,Southampton,
+3rd,0,"Lefebre, Miss. Jeannie",female,NA,Southampton,
+3rd,0,"Lefebre, Miss. Mathilde",female,NA,Southampton,
+3rd,0,"Lefebre, Mrs. Frank (Frances)",female,NA,Southampton,
+3rd,0,"Leinonen, Mr. Antti Gustaf",male,32,Southampton,
+3rd,0,"Lemberopolous, Mr. Peter L",male,34.5,Cherbourg,
+3rd,0,"Lennon, Miss. Mary",female,NA,Queenstown,
+3rd,0,"Lennon, Mr. Denis",male,NA,Queenstown,
+3rd,0,"Leonard, Mr. Lionel",male,36,Southampton,
+3rd,0,"Lester, Mr. James",male,39,Southampton,
+3rd,0,"Lievens, Mr. Rene Aime",male,24,Southampton,
+3rd,0,"Lindahl, Miss. Agda Thorilda Vi",female,25,Southampton,
+3rd,0,"Lindblom, Miss. Augusta Charlot",female,45,Southampton,
+3rd,0,"Lindell, Mr. Edvard Bengtsson",male,36,Southampton,
+3rd,0,"Lindell, Mrs. Edvard Bengtsson",female,30,Southampton,
+3rd,1,"Lindqvist, Mr. Eino William",male,20,Southampton,
+3rd,0,"Linehan, Mr. Michael",male,NA,Queenstown,
+3rd,0,"Ling, Mr. Lee",male,28,Southampton,
+3rd,0,"Lithman, Mr. Simon",male,NA,Southampton,
+3rd,0,"Lobb, Mr. William Arthur",male,30,Southampton,
+3rd,0,"Lobb, Mrs. William Arthur (Cord",female,26,Southampton,
+3rd,0,"Lockyer, Mr. Edward",male,NA,Southampton,
+3rd,0,"Lovell, Mr. John Hall (\""Henry\"")",male,20.5,Southampton,
+3rd,1,"Lulic, Mr. Nikola",male,27,Southampton,
+3rd,0,"Lundahl, Mr. Johan Svensson",male,51,Southampton,
+3rd,1,"Lundin, Miss. Olga Elida",female,23,Southampton,
+3rd,1,"Lundstrom, Mr. Thure Edvin",male,32,Southampton,
+3rd,0,"Lyntakoff, Mr. Stanko",male,NA,Southampton,
+3rd,0,"MacKay, Mr. George William",male,NA,Southampton,
+3rd,1,"Madigan, Miss. Margaret \""Maggie",female,NA,Queenstown,
+3rd,1,"Madsen, Mr. Fridtjof Arne",male,24,Southampton,
+3rd,0,"Maenpaa, Mr. Matti Alexanteri",male,22,Southampton,
+3rd,0,"Mahon, Miss. Bridget Delia",female,NA,Queenstown,
+3rd,0,"Mahon, Mr. John",male,NA,Queenstown,
+3rd,0,"Maisner, Mr. Simon",male,NA,Southampton,
+3rd,0,"Makinen, Mr. Kalle Edvard",male,29,Southampton,
+3rd,1,"Mamee, Mr. Hanna",male,NA,Cherbourg,
+3rd,0,"Mangan, Miss. Mary",female,30.5,Queenstown,
+3rd,1,"Mannion, Miss. Margareth",female,NA,Queenstown,
+3rd,0,"Mardirosian, Mr. Sarkis",male,NA,Cherbourg,
+3rd,0,"Markoff, Mr. Marin",male,35,Cherbourg,
+3rd,0,"Markun, Mr. Johann",male,33,Southampton,
+3rd,1,"Masselmani, Mrs. Fatima",female,NA,Cherbourg,
+3rd,0,"Matinoff, Mr. Nicola",male,NA,Cherbourg,
+3rd,1,"McCarthy, Miss. Catherine \""Kati",female,NA,Queenstown,
+3rd,1,"McCormack, Mr. Thomas Joseph",male,NA,Queenstown,
+3rd,1,"McCoy, Miss. Agnes",female,NA,Queenstown,
+3rd,1,"McCoy, Miss. Alicia",female,NA,Queenstown,
+3rd,1,"McCoy, Mr. Bernard",male,NA,Queenstown,
+3rd,1,"McDermott, Miss. Brigdet Delia",female,NA,Queenstown,
+3rd,0,"McEvoy, Mr. Michael",male,NA,Queenstown,
+3rd,1,"McGovern, Miss. Mary",female,NA,Queenstown,
+3rd,1,"McGowan, Miss. Anna \""Annie\""",female,15,Queenstown,
+3rd,0,"McGowan, Miss. Katherine",female,35,Queenstown,
+3rd,0,"McMahon, Mr. Martin",male,NA,Queenstown,
+3rd,0,"McNamee, Mr. Neal",male,24,Southampton,
+3rd,0,"McNamee, Mrs. Neal (Eileen O'Le",female,19,Southampton,
+3rd,0,"McNeill, Miss. Bridget",female,NA,Queenstown,
+3rd,0,"Meanwell, Miss. (Marion Ogden)",female,NA,Southampton,
+3rd,0,"Meek, Mrs. Thomas (Annie Louise",female,NA,Southampton,
+3rd,0,"Meo, Mr. Alfonzo",male,55.5,Southampton,
+3rd,0,"Mernagh, Mr. Robert",male,NA,Queenstown,
+3rd,1,"Midtsjo, Mr. Karl Albert",male,21,Southampton,
+3rd,0,"Miles, Mr. Frank",male,NA,Southampton,
+3rd,0,"Mineff, Mr. Ivan",male,24,Southampton,
+3rd,0,"Minkoff, Mr. Lazar",male,21,Southampton,
+3rd,0,"Mionoff, Mr. Stoytcho",male,28,Southampton,
+3rd,0,"Mitkoff, Mr. Mito",male,NA,Southampton,
+3rd,1,"Mockler, Miss. Helen Mary \""Elli",female,NA,Queenstown,
+3rd,0,"Moen, Mr. Sigurd Hansen",male,25,Southampton,
+3rd,1,"Moor, Master. Meier",male,6,Southampton,
+3rd,1,"Moor, Mrs. (Beila)",female,27,Southampton,
+3rd,0,"Moore, Mr. Leonard Charles",male,NA,Southampton,
+3rd,1,"Moran, Miss. Bertha",female,NA,Queenstown,
+3rd,0,"Moran, Mr. Daniel J",male,NA,Queenstown,
+3rd,0,"Moran, Mr. James",male,NA,Queenstown,
+3rd,0,"Morley, Mr. William",male,34,Southampton,
+3rd,0,"Morrow, Mr. Thomas Rowan",male,NA,Queenstown,
+3rd,1,"Moss, Mr. Albert Johan",male,NA,Southampton,
+3rd,1,"Moubarek, Master. Gerios",male,NA,Cherbourg,
+3rd,1,"Moubarek, Master. Halim Gonios",male,NA,Cherbourg,
+3rd,1,"Moubarek, Mrs. George (Omine \""A",female,NA,Cherbourg,
+3rd,1,"Moussa, Mrs. (Mantoura Boulos)",female,NA,Cherbourg,
+3rd,0,"Moutal, Mr. Rahamin Haim",male,NA,Southampton,
+3rd,1,"Mullens, Miss. Katherine \""Katie",female,NA,Queenstown,
+3rd,1,"Mulvihill, Miss. Bertha E",female,24,Queenstown,
+3rd,0,"Murdlin, Mr. Joseph",male,NA,Southampton,
+3rd,1,"Murphy, Miss. Katherine \""Kate\""",female,NA,Queenstown,
+3rd,1,"Murphy, Miss. Margaret Jane",female,NA,Queenstown,
+3rd,1,"Murphy, Miss. Nora",female,NA,Queenstown,
+3rd,0,"Myhrman, Mr. Pehr Fabian Oliver",male,18,Southampton,
+3rd,0,"Naidenoff, Mr. Penko",male,22,Southampton,
+3rd,1,"Najib, Miss. Adele Kiamie \""Jane",female,15,Cherbourg,
+3rd,1,"Nakid, Miss. Maria (\""Mary\"")",female,1,Cherbourg,
+3rd,1,"Nakid, Mr. Sahid",male,20,Cherbourg,
+3rd,1,"Nakid, Mrs. Said (Waika \""Mary\""",female,19,Cherbourg,
+3rd,0,"Nancarrow, Mr. William Henry",male,33,Southampton,
+3rd,0,"Nankoff, Mr. Minko",male,NA,Southampton,
+3rd,0,"Nasr, Mr. Mustafa",male,NA,Cherbourg,
+3rd,0,"Naughton, Miss. Hannah",female,NA,Queenstown,
+3rd,0,"Nenkoff, Mr. Christo",male,NA,Southampton,
+3rd,1,"Nicola-Yarred, Master. Elias",male,12,Cherbourg,
+3rd,1,"Nicola-Yarred, Miss. Jamila",female,14,Cherbourg,
+3rd,0,"Nieminen, Miss. Manta Josefina",female,29,Southampton,
+3rd,0,"Niklasson, Mr. Samuel",male,28,Southampton,
+3rd,1,"Nilsson, Miss. Berta Olivia",female,18,Southampton,
+3rd,1,"Nilsson, Miss. Helmina Josefina",female,26,Southampton,
+3rd,0,"Nilsson, Mr. August Ferdinand",male,21,Southampton,
+3rd,0,"Nirva, Mr. Iisakki Antino Aijo",male,41,Southampton,"Finland Sudbury, ON"
+3rd,1,"Niskanen, Mr. Juha",male,39,Southampton,
+3rd,0,"Nosworthy, Mr. Richard Cater",male,21,Southampton,
+3rd,0,"Novel, Mr. Mansouer",male,28.5,Cherbourg,
+3rd,1,"Nysten, Miss. Anna Sofia",female,22,Southampton,
+3rd,0,"Nysveen, Mr. Johan Hansen",male,61,Southampton,
+3rd,0,"O'Brien, Mr. Thomas",male,NA,Queenstown,
+3rd,0,"O'Brien, Mr. Timothy",male,NA,Queenstown,
+3rd,1,"O'Brien, Mrs. Thomas (Johanna \""",female,NA,Queenstown,
+3rd,0,"O'Connell, Mr. Patrick D",male,NA,Queenstown,
+3rd,0,"O'Connor, Mr. Maurice",male,NA,Queenstown,
+3rd,0,"O'Connor, Mr. Patrick",male,NA,Queenstown,
+3rd,0,"Odahl, Mr. Nils Martin",male,23,Southampton,
+3rd,0,"O'Donoghue, Ms. Bridget",female,NA,Queenstown,
+3rd,1,"O'Driscoll, Miss. Bridget",female,NA,Queenstown,
+3rd,1,"O'Dwyer, Miss. Ellen \""Nellie\""",female,NA,Queenstown,
+3rd,1,"Ohman, Miss. Velin",female,22,Southampton,
+3rd,1,"O'Keefe, Mr. Patrick",male,NA,Queenstown,
+3rd,1,"O'Leary, Miss. Hanora \""Norah\""",female,NA,Queenstown,
+3rd,1,"Olsen, Master. Artur Karl",male,9,Southampton,
+3rd,0,"Olsen, Mr. Henry Margido",male,28,Southampton,
+3rd,0,"Olsen, Mr. Karl Siegwart Andrea",male,42,Southampton,
+3rd,0,"Olsen, Mr. Ole Martin",male,NA,Southampton,
+3rd,0,"Olsson, Miss. Elina",female,31,Southampton,
+3rd,0,"Olsson, Mr. Nils Johan Goransso",male,28,Southampton,
+3rd,1,"Olsson, Mr. Oscar Wilhelm",male,32,Southampton,
+3rd,0,"Olsvigen, Mr. Thor Anderson",male,20,Southampton,"Oslo, Norway Cameron, WI"
+3rd,0,"Oreskovic, Miss. Jelka",female,23,Southampton,
+3rd,0,"Oreskovic, Miss. Marija",female,20,Southampton,
+3rd,0,"Oreskovic, Mr. Luka",male,20,Southampton,
+3rd,0,"Osen, Mr. Olaf Elon",male,16,Southampton,
+3rd,1,"Osman, Mrs. Mara",female,31,Southampton,
+3rd,0,"O'Sullivan, Miss. Bridget Mary",female,NA,Queenstown,
+3rd,0,"Palsson, Master. Gosta Leonard",male,2,Southampton,
+3rd,0,"Palsson, Master. Paul Folke",male,6,Southampton,
+3rd,0,"Palsson, Miss. Stina Viola",female,3,Southampton,
+3rd,0,"Palsson, Miss. Torborg Danira",female,8,Southampton,
+3rd,0,"Palsson, Mrs. Nils (Alma Cornel",female,29,Southampton,
+3rd,0,"Panula, Master. Eino Viljami",male,1,Southampton,
+3rd,0,"Panula, Master. Juha Niilo",male,7,Southampton,
+3rd,0,"Panula, Master. Urho Abraham",male,2,Southampton,
+3rd,0,"Panula, Mr. Ernesti Arvid",male,16,Southampton,
+3rd,0,"Panula, Mr. Jaako Arnold",male,14,Southampton,
+3rd,0,"Panula, Mrs. Juha (Maria Emilia",female,41,Southampton,
+3rd,0,"Pasic, Mr. Jakob",male,21,Southampton,
+3rd,0,"Patchett, Mr. George",male,19,Southampton,
+3rd,0,"Paulner, Mr. Uscher",male,NA,Cherbourg,
+3rd,0,"Pavlovic, Mr. Stefo",male,32,Southampton,
+3rd,0,"Peacock, Master. Alfred Edward",male,0.75,Southampton,
+3rd,0,"Peacock, Miss. Treasteall",female,3,Southampton,
+3rd,0,"Peacock, Mrs. Benjamin (Edith N",female,26,Southampton,
+3rd,0,"Pearce, Mr. Ernest",male,NA,Southampton,
+3rd,0,"Pedersen, Mr. Olaf",male,NA,Southampton,
+3rd,0,"Peduzzi, Mr. Joseph",male,NA,Southampton,
+3rd,0,"Pekoniemi, Mr. Edvard",male,21,Southampton,
+3rd,0,"Peltomaki, Mr. Nikolai Johannes",male,25,Southampton,
+3rd,0,"Perkin, Mr. John Henry",male,22,Southampton,
+3rd,1,"Persson, Mr. Ernst Ulrik",male,25,Southampton,
+3rd,1,"Peter, Master. Michael J",male,NA,Cherbourg,
+3rd,1,"Peter, Miss. Anna",female,NA,Cherbourg,
+3rd,1,"Peter, Mrs. Catherine (Catherin",female,NA,Cherbourg,
+3rd,0,"Peters, Miss. Katie",female,NA,Queenstown,
+3rd,0,"Petersen, Mr. Marius",male,24,Southampton,
+3rd,0,"Petranec, Miss. Matilda",female,28,Southampton,
+3rd,0,"Petroff, Mr. Nedelio",male,19,Southampton,
+3rd,0,"Petroff, Mr. Pastcho (\""Pentcho\""",male,NA,Southampton,
+3rd,0,"Petterson, Mr. Johan Emil",male,25,Southampton,
+3rd,0,"Pettersson, Miss. Ellen Natalia",female,18,Southampton,
+3rd,1,"Pickard, Mr. Berk (Berk Trembis",male,32,Southampton,
+3rd,0,"Plotcharsky, Mr. Vasil",male,NA,Southampton,
+3rd,0,"Pokrnic, Mr. Mate",male,17,Southampton,
+3rd,0,"Pokrnic, Mr. Tome",male,24,Southampton,
+3rd,0,"Radeff, Mr. Alexander",male,NA,Southampton,
+3rd,0,"Rasmussen, Mrs. (Lena Jacobsen",female,NA,Southampton,
+3rd,0,"Razi, Mr. Raihed",male,NA,Cherbourg,
+3rd,0,"Reed, Mr. James George",male,NA,Southampton,
+3rd,0,"Rekic, Mr. Tido",male,38,Southampton,
+3rd,0,"Reynolds, Mr. Harold J",male,21,Southampton,
+3rd,0,"Rice, Master. Albert",male,10,Queenstown,
+3rd,0,"Rice, Master. Arthur",male,4,Queenstown,
+3rd,0,"Rice, Master. Eric",male,7,Queenstown,
+3rd,0,"Rice, Master. Eugene",male,2,Queenstown,
+3rd,0,"Rice, Master. George Hugh",male,8,Queenstown,
+3rd,0,"Rice, Mrs. William (Margaret No",female,39,Queenstown,
+3rd,0,"Riihivouri, Miss. Susanna Juhan",female,22,Southampton,
+3rd,0,"Rintamaki, Mr. Matti",male,35,Southampton,
+3rd,1,"Riordan, Miss. Johanna \""Hannah\""",female,NA,Queenstown,
+3rd,0,"Risien, Mr. Samuel Beard",male,NA,Southampton,
+3rd,0,"Risien, Mrs. Samuel (Emma)",female,NA,Southampton,
+3rd,0,"Robins, Mr. Alexander A",male,50,Southampton,
+3rd,0,"Robins, Mrs. Alexander A (Grace",female,47,Southampton,
+3rd,0,"Rogers, Mr. William John",male,NA,Southampton,
+3rd,0,"Rommetvedt, Mr. Knud Paust",male,NA,Southampton,
+3rd,0,"Rosblom, Miss. Salli Helena",female,2,Southampton,
+3rd,0,"Rosblom, Mr. Viktor Richard",male,18,Southampton,
+3rd,0,"Rosblom, Mrs. Viktor (Helena Wi",female,41,Southampton,
+3rd,1,"Roth, Miss. Sarah A",female,NA,Southampton,
+3rd,0,"Rouse, Mr. Richard Henry",male,50,Southampton,
+3rd,0,"Rush, Mr. Alfred George John",male,16,Southampton,
+3rd,1,"Ryan, Mr. Edward",male,NA,Queenstown,
+3rd,0,"Ryan, Mr. Patrick",male,NA,Queenstown,
+3rd,0,"Saad, Mr. Amin",male,NA,Cherbourg,
+3rd,0,"Saad, Mr. Khalil",male,25,Cherbourg,
+3rd,0,"Saade, Mr. Jean Nassr",male,NA,Cherbourg,
+3rd,0,"Sadlier, Mr. Matthew",male,NA,Queenstown,
+3rd,0,"Sadowitz, Mr. Harry",male,NA,Southampton,
+3rd,0,"Saether, Mr. Simon Sivertsen",male,38.5,Southampton,
+3rd,0,"Sage, Master. Thomas Henry",male,NA,Southampton,
+3rd,0,"Sage, Master. William Henry",male,14.5,Southampton,
+3rd,0,"Sage, Miss. Ada",female,NA,Southampton,
+3rd,0,"Sage, Miss. Constance Gladys",female,NA,Southampton,
+3rd,0,"Sage, Miss. Dorothy Edith \""Doll",female,NA,Southampton,
+3rd,0,"Sage, Miss. Stella Anna",female,NA,Southampton,
+3rd,0,"Sage, Mr. Douglas Bullen",male,NA,Southampton,
+3rd,0,"Sage, Mr. Frederick",male,NA,Southampton,
+3rd,0,"Sage, Mr. George John Jr",male,NA,Southampton,
+3rd,0,"Sage, Mr. John George",male,NA,Southampton,
+3rd,0,"Sage, Mrs. John (Annie Bullen)",female,NA,Southampton,
+3rd,0,"Salander, Mr. Karl Johan",male,24,Southampton,
+3rd,1,"Salkjelsvik, Miss. Anna Kristin",female,21,Southampton,
+3rd,0,"Salonen, Mr. Johan Werner",male,39,Southampton,
+3rd,0,"Samaan, Mr. Elias",male,NA,Cherbourg,
+3rd,0,"Samaan, Mr. Hanna",male,NA,Cherbourg,
+3rd,0,"Samaan, Mr. Youssef",male,NA,Cherbourg,
+3rd,1,"Sandstrom, Miss. Beatrice Irene",female,1,Southampton,
+3rd,1,"Sandstrom, Mrs. Hjalmar (Agnes",female,24,Southampton,
+3rd,1,"Sandstrom, Miss. Marguerite Rut",female,4,Southampton,
+3rd,1,"Sap, Mr. Julius",male,25,Southampton,
+3rd,0,"Saundercock, Mr. William Henry",male,20,Southampton,
+3rd,0,"Sawyer, Mr. Frederick Charles",male,24.5,Southampton,
+3rd,0,"Scanlan, Mr. James",male,NA,Queenstown,
+3rd,0,"Sdycoff, Mr. Todor",male,NA,Southampton,
+3rd,0,"Shaughnessy, Mr. Patrick",male,NA,Queenstown,
+3rd,1,"Sheerlinck, Mr. Jan Baptist",male,29,Southampton,
+3rd,0,"Shellard, Mr. Frederick William",male,NA,Southampton,
+3rd,1,"Shine, Miss. Ellen Natalia",female,NA,Queenstown,
+3rd,0,"Shorney, Mr. Charles Joseph",male,NA,Southampton,
+3rd,0,"Simmons, Mr. John",male,NA,Southampton,
+3rd,0,"Sirayanian, Mr. Orsen",male,22,Cherbourg,
+3rd,0,"Sirota, Mr. Maurice",male,NA,Southampton,
+3rd,0,"Sivic, Mr. Husein",male,40,Southampton,
+3rd,0,"Sivola, Mr. Antti Wilhelm",male,21,Southampton,
+3rd,1,"Sjoblom, Miss. Anna Sofia",female,18,Southampton,
+3rd,0,"Skoog, Master. Harald",male,4,Southampton,
+3rd,0,"Skoog, Master. Karl Thorsten",male,10,Southampton,
+3rd,0,"Skoog, Miss. Mabel",female,9,Southampton,
+3rd,0,"Skoog, Miss. Margit Elizabeth",female,2,Southampton,
+3rd,0,"Skoog, Mr. Wilhelm",male,40,Southampton,
+3rd,0,"Skoog, Mrs. William (Anna Bernh",female,45,Southampton,
+3rd,0,"Slabenoff, Mr. Petco",male,NA,Southampton,
+3rd,0,"Slocovski, Mr. Selman Francis",male,NA,Southampton,
+3rd,0,"Smiljanic, Mr. Mile",male,NA,Southampton,
+3rd,0,"Smith, Mr. Thomas",male,NA,Queenstown,
+3rd,1,"Smyth, Miss. Julia",female,NA,Queenstown,
+3rd,0,"Soholt, Mr. Peter Andreas Lauri",male,19,Southampton,
+3rd,0,"Somerton, Mr. Francis William",male,30,Southampton,
+3rd,0,"Spector, Mr. Woolf",male,NA,Southampton,
+3rd,0,"Spinner, Mr. Henry John",male,32,Southampton,
+3rd,0,"Staneff, Mr. Ivan",male,NA,Southampton,
+3rd,0,"Stankovic, Mr. Ivan",male,33,Cherbourg,
+3rd,1,"Stanley, Miss. Amy Zillah Elsie",female,23,Southampton,
+3rd,0,"Stanley, Mr. Edward Roland",male,21,Southampton,
+3rd,0,"Storey, Mr. Thomas",male,60.5,Southampton,
+3rd,0,"Stoytcheff, Mr. Ilia",male,19,Southampton,
+3rd,0,"Strandberg, Miss. Ida Sofia",female,22,Southampton,
+3rd,1,"Stranden, Mr. Juho",male,31,Southampton,
+3rd,0,"Strilic, Mr. Ivan",male,27,Southampton,
+3rd,0,"Strom, Miss. Telma Matilda",female,2,Southampton,
+3rd,0,"Strom, Mrs. Wilhelm (Elna Matil",female,29,Southampton,
+3rd,1,"Sunderland, Mr. Victor Francis",male,16,Southampton,
+3rd,1,"Sundman, Mr. Johan Julian",male,44,Southampton,
+3rd,0,"Sutehall, Mr. Henry Jr",male,25,Southampton,
+3rd,0,"Svensson, Mr. Johan",male,74,Southampton,
+3rd,1,"Svensson, Mr. Johan Cervin",male,14,Southampton,
+3rd,0,"Svensson, Mr. Olof",male,24,Southampton,
+3rd,1,"Tenglin, Mr. Gunnar Isidor",male,25,Southampton,
+3rd,0,"Theobald, Mr. Thomas Leonard",male,34,Southampton,
+3rd,1,"Thomas, Master. Assad Alexander",male,0.416700006,Cherbourg,
+3rd,0,"Thomas, Mr. Charles P",male,NA,Cherbourg,
+3rd,0,"Thomas, Mr. John",male,NA,Cherbourg,
+3rd,0,"Thomas, Mr. Tannous",male,NA,Cherbourg,
+3rd,1,"Thomas, Mrs. Alexander (Thamine",female,16,Cherbourg,
+3rd,0,"Thomson, Mr. Alexander Morrison",male,NA,Southampton,
+3rd,0,"Thorneycroft, Mr. Percival",male,NA,Southampton,
+3rd,1,"Thorneycroft, Mrs. Percival (Fl",female,NA,Southampton,
+3rd,0,"Tikkanen, Mr. Juho",male,32,Southampton,
+3rd,0,"Tobin, Mr. Roger",male,NA,Queenstown,
+3rd,0,"Todoroff, Mr. Lalio",male,NA,Southampton,
+3rd,0,"Tomlin, Mr. Ernest Portage",male,30.5,Southampton,
+3rd,0,"Torber, Mr. Ernst William",male,44,Southampton,
+3rd,0,"Torfa, Mr. Assad",male,NA,Cherbourg,
+3rd,1,"Tornquist, Mr. William Henry",male,25,Southampton,
+3rd,0,"Toufik, Mr. Nakli",male,NA,Cherbourg,
+3rd,1,"Touma, Master. Georges Youssef",male,7,Cherbourg,
+3rd,1,"Touma, Miss. Maria Youssef",female,9,Cherbourg,
+3rd,1,"Touma, Mrs. Darwis (Hanne Youss",female,29,Cherbourg,
+3rd,0,"Turcin, Mr. Stjepan",male,36,Southampton,
+3rd,1,"Turja, Miss. Anna Sofia",female,18,Southampton,
+3rd,1,"Turkula, Mrs. (Hedwig)",female,63,Southampton,
+3rd,0,"van Billiard, Master. James Wil",male,NA,Southampton,
+3rd,0,"van Billiard, Master. Walter Jo",male,11.5,Southampton,
+3rd,0,"van Billiard, Mr. Austin Blyler",male,40.5,Southampton,
+3rd,0,"Van Impe, Miss. Catharina",female,10,Southampton,
+3rd,0,"Van Impe, Mr. Jean Baptiste",male,36,Southampton,
+3rd,0,"Van Impe, Mrs. Jean Baptiste (R",female,30,Southampton,
+3rd,0,"van Melkebeke, Mr. Philemon",male,NA,Southampton,
+3rd,0,"Vande Velde, Mr. Johannes Josep",male,33,Southampton,
+3rd,0,"Vande Walle, Mr. Nestor Cyriel",male,28,Southampton,
+3rd,0,"Vanden Steen, Mr. Leo Peter",male,28,Southampton,
+3rd,0,"Vander Cruyssen, Mr. Victor",male,47,Southampton,
+3rd,0,"Vander Planke, Miss. Augusta Ma",female,18,Southampton,
+3rd,0,"Vander Planke, Mr. Julius",male,31,Southampton,
+3rd,0,"Vander Planke, Mr. Leo Edmondus",male,16,Southampton,
+3rd,0,"Vander Planke, Mrs. Julius (Eme",female,31,Southampton,
+3rd,1,"Vartanian, Mr. David",male,22,Cherbourg,
+3rd,0,"Vendel, Mr. Olof Edvin",male,20,Southampton,
+3rd,0,"Vestrom, Miss. Hulda Amanda Ado",female,14,Southampton,
+3rd,0,"Vovk, Mr. Janko",male,22,Southampton,
+3rd,0,"Waelens, Mr. Achille",male,22,Southampton,"Antwerp, Belgium / Stanton, OH"
+3rd,0,"Ware, Mr. Frederick",male,NA,Southampton,
+3rd,0,"Warren, Mr. Charles William",male,NA,Southampton,
+3rd,0,"Webber, Mr. James",male,NA,Southampton,
+3rd,0,"Wenzel, Mr. Linhart",male,32.5,Southampton,
+3rd,1,"Whabee, Mrs. George Joseph (Sha",female,38,Cherbourg,
+3rd,0,"Widegren, Mr. Carl/Charles Pete",male,51,Southampton,
+3rd,0,"Wiklund, Mr. Jakob Alfred",male,18,Southampton,
+3rd,0,"Wiklund, Mr. Karl Johan",male,21,Southampton,
+3rd,1,"Wilkes, Mrs. James (Ellen Needs",female,47,Southampton,
+3rd,0,"Willer, Mr. Aaron (\""Abi Weller\""",male,NA,Southampton,
+3rd,0,"Willey, Mr. Edward",male,NA,Southampton,
+3rd,0,"Williams, Mr. Howard Hugh \""Harr",male,NA,Southampton,
+3rd,0,"Williams, Mr. Leslie",male,28.5,Southampton,
+3rd,0,"Windelov, Mr. Einar",male,21,Southampton,
+3rd,0,"Wirz, Mr. Albert",male,27,Southampton,
+3rd,0,"Wiseman, Mr. Phillippe",male,NA,Southampton,
+3rd,0,"Wittevrongel, Mr. Camille",male,36,Southampton,
+3rd,0,"Yasbeck, Mr. Antoni",male,27,Cherbourg,
+3rd,1,"Yasbeck, Mrs. Antoni (Selini Al",female,15,Cherbourg,
+3rd,0,"Youseff, Mr. Gerious",male,45.5,Cherbourg,
+3rd,0,"Yousif, Mr. Wazli",male,NA,Cherbourg,
+3rd,0,"Yousseff, Mr. Gerious",male,NA,Cherbourg,
+3rd,0,"Zabour, Miss. Hileni",female,14.5,Cherbourg,
+3rd,0,"Zabour, Miss. Thamine",female,NA,Cherbourg,
+3rd,0,"Zakarian, Mr. Mapriededer",male,26.5,Cherbourg,
+3rd,0,"Zakarian, Mr. Ortin",male,27,Cherbourg,
+3rd,0,"Zimmerman, Mr. Leo",male,29,Southampton,
